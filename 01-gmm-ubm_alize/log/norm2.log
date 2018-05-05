@@ -1,0 +1,236 @@
+NormFeatFile Mode- Normalisation by file by file
+var and mean normalisation
+(SegTools) >> Proceeding label file reading for [renjith_1] <<
+(SegTools) Default label file for [renjith_1], nb features[496]
+NormFeat file normalisation[renjith_1]
+(General Tools) Compute CMS on Feature Server
+Writing to: renjith_1
+(GeneralTools) Writing [renjith_1] begin:0 length:496
+(SegTools) >> Proceeding label file reading for [renjith_2] <<
+(SegTools) Default label file for [renjith_2], nb features[496]
+NormFeat file normalisation[renjith_2]
+(General Tools) Compute CMS on Feature Server
+Writing to: renjith_2
+(GeneralTools) Writing [renjith_2] begin:0 length:496
+(SegTools) >> Proceeding label file reading for [renjith_3] <<
+(SegTools) Default label file for [renjith_3], nb features[496]
+NormFeat file normalisation[renjith_3]
+(General Tools) Compute CMS on Feature Server
+Writing to: renjith_3
+(GeneralTools) Writing [renjith_3] begin:0 length:496
+NormFeatFile Mode- Normalisation by file by file
+var and mean normalisation
+(SegTools) >> Proceeding label file reading for [renjith_1] <<
+(SegTools) Default label file for [renjith_1], nb features[496]
+NormFeat file normalisation[renjith_1]
+(General Tools) Compute CMS on Feature Server
+Writing to: renjith_1
+(GeneralTools) Writing [renjith_1] begin:0 length:496
+(SegTools) >> Proceeding label file reading for [renjith_2] <<
+(SegTools) Default label file for [renjith_2], nb features[496]
+NormFeat file normalisation[renjith_2]
+(General Tools) Compute CMS on Feature Server
+Writing to: renjith_2
+(GeneralTools) Writing [renjith_2] begin:0 length:496
+(SegTools) >> Proceeding label file reading for [renjith_3] <<
+(SegTools) Default label file for [renjith_3], nb features[496]
+NormFeat file normalisation[renjith_3]
+(General Tools) Compute CMS on Feature Server
+Writing to: renjith_3
+(GeneralTools) Writing [renjith_3] begin:0 length:496
+NormFeatFile Mode- Normalisation by file by file
+var and mean normalisation
+(SegTools) >> Proceeding label file reading for [renjith_1] <<
+(SegTools) Default label file for [renjith_1], nb features[496]
+NormFeat file normalisation[renjith_1]
+(General Tools) Compute CMS on Feature Server
+Writing to: renjith_1
+(GeneralTools) Writing [renjith_1] begin:0 length:496
+(SegTools) >> Proceeding label file reading for [renjith_2] <<
+(SegTools) Default label file for [renjith_2], nb features[496]
+NormFeat file normalisation[renjith_2]
+(General Tools) Compute CMS on Feature Server
+Writing to: renjith_2
+(GeneralTools) Writing [renjith_2] begin:0 length:496
+(SegTools) >> Proceeding label file reading for [renjith_3] <<
+(SegTools) Default label file for [renjith_3], nb features[496]
+NormFeat file normalisation[renjith_3]
+(General Tools) Compute CMS on Feature Server
+Writing to: renjith_3
+(GeneralTools) Writing [renjith_3] begin:0 length:496
+NormFeatFile Mode- Normalisation by file by file
+var and mean normalisation
+(SegTools) >> Proceeding label file reading for [renjith_1] <<
+Warning File[renjith_1], Truncate Segment begin:495 length:2 file size:496 new length:1
+NormFeat file normalisation[renjith_1]
+(General Tools) Compute CMS on Feature Server
+Writing to: renjith_1
+(GeneralTools) Writing [renjith_1] begin:0 length:496
+(SegTools) >> Proceeding label file reading for [renjith_2] <<
+Warning File[renjith_2], Truncate Segment begin:495 length:2 file size:496 new length:1
+NormFeat file normalisation[renjith_2]
+(General Tools) Compute CMS on Feature Server
+Writing to: renjith_2
+(GeneralTools) Writing [renjith_2] begin:0 length:496
+(SegTools) >> Proceeding label file reading for [renjith_3] <<
+Warning File[renjith_3], Truncate Segment begin:495 length:2 file size:496 new length:1
+NormFeat file normalisation[renjith_3]
+(General Tools) Compute CMS on Feature Server
+Writing to: renjith_3
+(GeneralTools) Writing [renjith_3] begin:0 length:496
+NormFeatFile Mode- Normalisation by file by file
+var and mean normalisation
+[ FileNotFoundException 0x900e100 ]
+  message   = ""
+  source file = FileReader.cpp
+  line number = 101
+  fileName =  data/prm/re_1.mfc
+NormFeatFile Mode- Normalisation by file by file
+var and mean normalisation
+[ FileNotFoundException 0x8f5f100 ]
+  message   = ""
+  source file = FileReader.cpp
+  line number = 101
+  fileName =  data/prm/re_1.mfc
+NormFeatFile Mode- Normalisation by file by file
+var and mean normalisation
+(SegTools) >> Proceeding label file reading for [renjith_1] <<
+Warning File[renjith_1], Truncate Segment begin:495 length:2 file size:496 new length:1
+NormFeat file normalisation[renjith_1]
+(General Tools) Compute CMS on Feature Server
+Writing to: renjith_1
+(GeneralTools) Writing [renjith_1] begin:0 length:496
+(SegTools) >> Proceeding label file reading for [renjith_2] <<
+Warning File[renjith_2], Truncate Segment begin:495 length:2 file size:496 new length:1
+NormFeat file normalisation[renjith_2]
+(General Tools) Compute CMS on Feature Server
+Writing to: renjith_2
+(GeneralTools) Writing [renjith_2] begin:0 length:496
+(SegTools) >> Proceeding label file reading for [renjith_3] <<
+Warning File[renjith_3], Truncate Segment begin:495 length:2 file size:496 new length:1
+NormFeat file normalisation[renjith_3]
+(General Tools) Compute CMS on Feature Server
+Writing to: renjith_3
+(GeneralTools) Writing [renjith_3] begin:0 length:496
+NormFeatFile Mode- Normalisation by file by file
+var and mean normalisation
+(SegTools) >> Proceeding label file reading for [renjith_1] <<
+Warning File[renjith_1], Truncate Segment begin:495 length:2 file size:496 new length:1
+NormFeat file normalisation[renjith_1]
+(General Tools) Compute CMS on Feature Server
+Writing to: renjith_1
+(GeneralTools) Writing [renjith_1] begin:0 length:496
+(SegTools) >> Proceeding label file reading for [renjith_2] <<
+Warning File[renjith_2], Truncate Segment begin:495 length:2 file size:496 new length:1
+NormFeat file normalisation[renjith_2]
+(General Tools) Compute CMS on Feature Server
+Writing to: renjith_2
+(GeneralTools) Writing [renjith_2] begin:0 length:496
+(SegTools) >> Proceeding label file reading for [renjith_3] <<
+Warning File[renjith_3], Truncate Segment begin:495 length:2 file size:496 new length:1
+NormFeat file normalisation[renjith_3]
+(General Tools) Compute CMS on Feature Server
+Writing to: renjith_3
+(GeneralTools) Writing [renjith_3] begin:0 length:496
+NormFeatFile Mode- Normalisation by file by file
+var and mean normalisation
+(SegTools) >> Proceeding label file reading for [renjith_1] <<
+Warning File[renjith_1], Truncate Segment begin:495 length:2 file size:496 new length:1
+NormFeat file normalisation[renjith_1]
+(General Tools) Compute CMS on Feature Server
+Writing to: renjith_1
+(GeneralTools) Writing [renjith_1] begin:0 length:496
+(SegTools) >> Proceeding label file reading for [renjith_2] <<
+Warning File[renjith_2], Truncate Segment begin:495 length:2 file size:496 new length:1
+NormFeat file normalisation[renjith_2]
+(General Tools) Compute CMS on Feature Server
+Writing to: renjith_2
+(GeneralTools) Writing [renjith_2] begin:0 length:496
+(SegTools) >> Proceeding label file reading for [renjith_3] <<
+Warning File[renjith_3], Truncate Segment begin:495 length:2 file size:496 new length:1
+NormFeat file normalisation[renjith_3]
+(General Tools) Compute CMS on Feature Server
+Writing to: renjith_3
+(GeneralTools) Writing [renjith_3] begin:0 length:496
+NormFeatFile Mode- Normalisation by file by file
+var and mean normalisation
+(SegTools) >> Proceeding label file reading for [renj_1] <<
+Warning File[renj_1], Truncate Segment begin:917 length:10 file size:926 new length:9
+NormFeat file normalisation[renj_1]
+(General Tools) Compute CMS on Feature Server
+Writing to: renj_1
+(GeneralTools) Writing [renj_1] begin:0 length:926
+(SegTools) >> Proceeding label file reading for [renj_2] <<
+NormFeat file normalisation[renj_2]
+(General Tools) Compute CMS on Feature Server
+Writing to: renj_2
+(GeneralTools) Writing [renj_2] begin:0 length:996
+(SegTools) >> Proceeding label file reading for [renj_3] <<
+NormFeat file normalisation[renj_3]
+(General Tools) Compute CMS on Feature Server
+Writing to: renj_3
+(GeneralTools) Writing [renj_3] begin:0 length:996
+NormFeatFile Mode- Normalisation by file by file
+var and mean normalisation
+[ FileNotFoundException 0x8582100 ]
+  message   = ""
+  source file = FileReader.cpp
+  line number = 101
+  fileName =  data/prm/shyam_1.mfc
+NormFeatFile Mode- Normalisation by file by file
+var and mean normalisation
+(SegTools) >> Proceeding label file reading for [shyam_1] <<
+Warning File[shyam_1], Truncate Segment begin:939 length:18 file size:956 new length:17
+NormFeat file normalisation[shyam_1]
+(General Tools) Compute CMS on Feature Server
+Writing to: shyam_1
+(GeneralTools) Writing [shyam_1] begin:0 length:956
+(SegTools) >> Proceeding label file reading for [shyam_2] <<
+Warning File[shyam_2], Truncate Segment begin:977 length:20 file size:996 new length:19
+NormFeat file normalisation[shyam_2]
+(General Tools) Compute CMS on Feature Server
+Writing to: shyam_2
+(GeneralTools) Writing [shyam_2] begin:0 length:996
+(SegTools) >> Proceeding label file reading for [shyam_3] <<
+Warning File[shyam_3], Truncate Segment begin:955 length:22 file size:976 new length:21
+NormFeat file normalisation[shyam_3]
+(General Tools) Compute CMS on Feature Server
+Writing to: shyam_3
+(GeneralTools) Writing [shyam_3] begin:0 length:976
+NormFeatFile Mode- Normalisation by file by file
+var and mean normalisation
+(SegTools) >> Proceeding label file reading for [renj_1] <<
+Warning File[renj_1], Truncate Segment begin:949 length:8 file size:956 new length:7
+NormFeat file normalisation[renj_1]
+(General Tools) Compute CMS on Feature Server
+Writing to: renj_1
+(GeneralTools) Writing [renj_1] begin:0 length:956
+(SegTools) >> Proceeding label file reading for [renj_2] <<
+NormFeat file normalisation[renj_2]
+(General Tools) Compute CMS on Feature Server
+Writing to: renj_2
+(GeneralTools) Writing [renj_2] begin:0 length:976
+(SegTools) >> Proceeding label file reading for [renj_3] <<
+NormFeat file normalisation[renj_3]
+(General Tools) Compute CMS on Feature Server
+Writing to: renj_3
+(GeneralTools) Writing [renj_3] begin:0 length:972
+NormFeatFile Mode- Normalisation by file by file
+var and mean normalisation
+(SegTools) >> Proceeding label file reading for [binil_1] <<
+Warning File[binil_1], Truncate Segment begin:866 length:95 file size:960 new length:94
+NormFeat file normalisation[binil_1]
+(General Tools) Compute CMS on Feature Server
+Writing to: binil_1
+(GeneralTools) Writing [binil_1] begin:0 length:960
+(SegTools) >> Proceeding label file reading for [binil_2] <<
+Warning File[binil_2], Truncate Segment begin:985 length:12 file size:996 new length:11
+NormFeat file normalisation[binil_2]
+(General Tools) Compute CMS on Feature Server
+Writing to: binil_2
+(GeneralTools) Writing [binil_2] begin:0 length:996
+(SegTools) >> Proceeding label file reading for [binil_3] <<
+NormFeat file normalisation[binil_3]
+(General Tools) Compute CMS on Feature Server
+Writing to: binil_3
+(GeneralTools) Writing [binil_3] begin:0 length:994

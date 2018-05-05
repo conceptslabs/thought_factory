@@ -1,0 +1,636 @@
+Proceeding Energy based silence detection for [renjith_1]
+(SegTools) Default label file for [renjith_1], nb features[496]
+ total variance flooring = 0 ceiling = 0
+Partial Train it[-1] (-1 means initial partial it) LLK=-900.093 Nb Frames=496
+ total variance flooring = 0 ceiling = 0
+Partial Train it[0] (-1 means initial partial it) LLK=-694.938 Nb Frames=496
+ total variance flooring = 0 ceiling = 0
+Partial Train it[1] (-1 means initial partial it) LLK=-694.094 Nb Frames=496
+ total variance flooring = 0 ceiling = 0
+Partial Train it[2] (-1 means initial partial it) LLK=-693.627 Nb Frames=496
+ total variance flooring = 0 ceiling = 0
+Partial Train it[3] (-1 means initial partial it) LLK=-693.197 Nb Frames=496
+ total variance flooring = 0 ceiling = 0
+Partial Train it[4] (-1 means initial partial it) LLK=-692.769 Nb Frames=496
+ total variance flooring = 0 ceiling = 0
+Partial Train it[5] (-1 means initial partial it) LLK=-692.337 Nb Frames=496
+ total variance flooring = 0 ceiling = 0
+Partial Train it[6] (-1 means initial partial it) LLK=-691.901 Nb Frames=496
+Highest component[2] Mean[1.08453] Cov[0.213532] Weight[0.221375]
+File [renjith_1]	Number of initial frames [496]	Number of selected frames [232]	percentage selected [46]
+[ Exception 0xa0df380 ]
+  message   = "Can't create label file"
+  source file = SegTools.cpp
+  line number = 110
+--help                   Show this help
+--version                Show version information
+--config                 default config filename <STRING>
+--inputFeatureFilename   input feature - could be a simple feature file or a list of filename <STRING>
+--labelFilesPath         path of input and output labels <STRING>
+--saveLabelFileExtension output labelFile extension <STRING>
+--labelOutputFrames      output label tag <STRING>
+--alpha                  threshold giving the percentage of data of the middle Gaussian to take into account <FLOAT>
+--segmentalMode          file to have a file by file behaviour <STRING>
+--thresholdMode          this parameter must be set to select 3 top gaussian. It's a default parameter <STRING>
+
+Proceeding Energy based silence detection for [renjith_1]
+(SegTools) Default label file for [renjith_1], nb features[496]
+ total variance flooring = 0 ceiling = 0
+Partial Train it[-1] (-1 means initial partial it) LLK=-900.093 Nb Frames=496
+ total variance flooring = 0 ceiling = 0
+Partial Train it[0] (-1 means initial partial it) LLK=-694.938 Nb Frames=496
+ total variance flooring = 0 ceiling = 0
+Partial Train it[1] (-1 means initial partial it) LLK=-694.094 Nb Frames=496
+ total variance flooring = 0 ceiling = 0
+Partial Train it[2] (-1 means initial partial it) LLK=-693.627 Nb Frames=496
+ total variance flooring = 0 ceiling = 0
+Partial Train it[3] (-1 means initial partial it) LLK=-693.197 Nb Frames=496
+ total variance flooring = 0 ceiling = 0
+Partial Train it[4] (-1 means initial partial it) LLK=-692.769 Nb Frames=496
+ total variance flooring = 0 ceiling = 0
+Partial Train it[5] (-1 means initial partial it) LLK=-692.337 Nb Frames=496
+ total variance flooring = 0 ceiling = 0
+Partial Train it[6] (-1 means initial partial it) LLK=-691.901 Nb Frames=496
+Highest component[2] Mean[1.08453] Cov[0.213532] Weight[0.221375]
+File [renjith_1]	Number of initial frames [496]	Number of selected frames [232]	percentage selected [46]
+[ Exception 0x88a7380 ]
+  message   = "Can't create label file"
+  source file = SegTools.cpp
+  line number = 110
+--help                   Show this help
+--version                Show version information
+--config                 default config filename <STRING>
+--inputFeatureFilename   input feature - could be a simple feature file or a list of filename <STRING>
+--labelFilesPath         path of input and output labels <STRING>
+--saveLabelFileExtension output labelFile extension <STRING>
+--labelOutputFrames      output label tag <STRING>
+--alpha                  threshold giving the percentage of data of the middle Gaussian to take into account <FLOAT>
+--segmentalMode          file to have a file by file behaviour <STRING>
+--thresholdMode          this parameter must be set to select 3 top gaussian. It's a default parameter <STRING>
+
+Proceeding Energy based silence detection for [renjith_1]
+(SegTools) Default label file for [renjith_1], nb features[496]
+ total variance flooring = 0 ceiling = 0
+Partial Train it[-1] (-1 means initial partial it) LLK=-900.093 Nb Frames=496
+ total variance flooring = 0 ceiling = 0
+Partial Train it[0] (-1 means initial partial it) LLK=-694.938 Nb Frames=496
+ total variance flooring = 0 ceiling = 0
+Partial Train it[1] (-1 means initial partial it) LLK=-694.094 Nb Frames=496
+ total variance flooring = 0 ceiling = 0
+Partial Train it[2] (-1 means initial partial it) LLK=-693.627 Nb Frames=496
+ total variance flooring = 0 ceiling = 0
+Partial Train it[3] (-1 means initial partial it) LLK=-693.197 Nb Frames=496
+ total variance flooring = 0 ceiling = 0
+Partial Train it[4] (-1 means initial partial it) LLK=-692.769 Nb Frames=496
+ total variance flooring = 0 ceiling = 0
+Partial Train it[5] (-1 means initial partial it) LLK=-692.337 Nb Frames=496
+ total variance flooring = 0 ceiling = 0
+Partial Train it[6] (-1 means initial partial it) LLK=-691.901 Nb Frames=496
+Highest component[2] Mean[1.08453] Cov[0.213532] Weight[0.221375]
+File [renjith_1]	Number of initial frames [496]	Number of selected frames [232]	percentage selected [46]
+[ Exception 0x8251380 ]
+  message   = "Can't create label file"
+  source file = SegTools.cpp
+  line number = 110
+--help                   Show this help
+--version                Show version information
+--config                 default config filename <STRING>
+--inputFeatureFilename   input feature - could be a simple feature file or a list of filename <STRING>
+--labelFilesPath         path of input and output labels <STRING>
+--saveLabelFileExtension output labelFile extension <STRING>
+--labelOutputFrames      output label tag <STRING>
+--alpha                  threshold giving the percentage of data of the middle Gaussian to take into account <FLOAT>
+--segmentalMode          file to have a file by file behaviour <STRING>
+--thresholdMode          this parameter must be set to select 3 top gaussian. It's a default parameter <STRING>
+
+Proceeding Energy based silence detection for [renjith_1]
+(SegTools) Default label file for [renjith_1], nb features[496]
+ total variance flooring = 0 ceiling = 0
+Partial Train it[-1] (-1 means initial partial it) LLK=-900.093 Nb Frames=496
+ total variance flooring = 0 ceiling = 0
+Partial Train it[0] (-1 means initial partial it) LLK=-694.938 Nb Frames=496
+ total variance flooring = 0 ceiling = 0
+Partial Train it[1] (-1 means initial partial it) LLK=-694.094 Nb Frames=496
+ total variance flooring = 0 ceiling = 0
+Partial Train it[2] (-1 means initial partial it) LLK=-693.627 Nb Frames=496
+ total variance flooring = 0 ceiling = 0
+Partial Train it[3] (-1 means initial partial it) LLK=-693.197 Nb Frames=496
+ total variance flooring = 0 ceiling = 0
+Partial Train it[4] (-1 means initial partial it) LLK=-692.769 Nb Frames=496
+ total variance flooring = 0 ceiling = 0
+Partial Train it[5] (-1 means initial partial it) LLK=-692.337 Nb Frames=496
+ total variance flooring = 0 ceiling = 0
+Partial Train it[6] (-1 means initial partial it) LLK=-691.901 Nb Frames=496
+Highest component[2] Mean[1.08453] Cov[0.213532] Weight[0.221375]
+File [renjith_1]	Number of initial frames [496]	Number of selected frames [232]	percentage selected [46]
+Proceeding Energy based silence detection for [renjith_2]
+(SegTools) Default label file for [renjith_2], nb features[496]
+ total variance flooring = 0 ceiling = 0
+Partial Train it[-1] (-1 means initial partial it) LLK=-900.093 Nb Frames=496
+ total variance flooring = 0 ceiling = 0
+Partial Train it[0] (-1 means initial partial it) LLK=-694.938 Nb Frames=496
+ total variance flooring = 0 ceiling = 0
+Partial Train it[1] (-1 means initial partial it) LLK=-694.094 Nb Frames=496
+ total variance flooring = 0 ceiling = 0
+Partial Train it[2] (-1 means initial partial it) LLK=-693.627 Nb Frames=496
+ total variance flooring = 0 ceiling = 0
+Partial Train it[3] (-1 means initial partial it) LLK=-693.197 Nb Frames=496
+ total variance flooring = 0 ceiling = 0
+Partial Train it[4] (-1 means initial partial it) LLK=-692.769 Nb Frames=496
+ total variance flooring = 0 ceiling = 0
+Partial Train it[5] (-1 means initial partial it) LLK=-692.337 Nb Frames=496
+ total variance flooring = 0 ceiling = 0
+Partial Train it[6] (-1 means initial partial it) LLK=-691.901 Nb Frames=496
+Highest component[2] Mean[1.08453] Cov[0.213532] Weight[0.221375]
+File [renjith_2]	Number of initial frames [496]	Number of selected frames [232]	percentage selected [46]
+Proceeding Energy based silence detection for [renjith_3]
+(SegTools) Default label file for [renjith_3], nb features[496]
+ total variance flooring = 0 ceiling = 0
+Partial Train it[-1] (-1 means initial partial it) LLK=-900.093 Nb Frames=496
+ total variance flooring = 0 ceiling = 0
+Partial Train it[0] (-1 means initial partial it) LLK=-694.938 Nb Frames=496
+ total variance flooring = 0 ceiling = 0
+Partial Train it[1] (-1 means initial partial it) LLK=-694.094 Nb Frames=496
+ total variance flooring = 0 ceiling = 0
+Partial Train it[2] (-1 means initial partial it) LLK=-693.627 Nb Frames=496
+ total variance flooring = 0 ceiling = 0
+Partial Train it[3] (-1 means initial partial it) LLK=-693.197 Nb Frames=496
+ total variance flooring = 0 ceiling = 0
+Partial Train it[4] (-1 means initial partial it) LLK=-692.769 Nb Frames=496
+ total variance flooring = 0 ceiling = 0
+Partial Train it[5] (-1 means initial partial it) LLK=-692.337 Nb Frames=496
+ total variance flooring = 0 ceiling = 0
+Partial Train it[6] (-1 means initial partial it) LLK=-691.901 Nb Frames=496
+Highest component[2] Mean[1.08453] Cov[0.213532] Weight[0.221375]
+File [renjith_3]	Number of initial frames [496]	Number of selected frames [232]	percentage selected [46]
+Proceeding Energy based silence detection for [re_1]
+[ FileNotFoundException 0x89e91b0 ]
+  message   = ""
+  source file = FileReader.cpp
+  line number = 101
+  fileName =  data/prm/re_1.enr.tmp.prm
+--help                   Show this help
+--version                Show version information
+--config                 default config filename <STRING>
+--inputFeatureFilename   input feature - could be a simple feature file or a list of filename <STRING>
+--labelFilesPath         path of input and output labels <STRING>
+--saveLabelFileExtension output labelFile extension <STRING>
+--labelOutputFrames      output label tag <STRING>
+--alpha                  threshold giving the percentage of data of the middle Gaussian to take into account <FLOAT>
+--segmentalMode          file to have a file by file behaviour <STRING>
+--thresholdMode          this parameter must be set to select 3 top gaussian. It's a default parameter <STRING>
+
+Proceeding Energy based silence detection for [re_1]
+[ FileNotFoundException 0x977a1b0 ]
+  message   = ""
+  source file = FileReader.cpp
+  line number = 101
+  fileName =  data/prm/re_1.enr.tmp.prm
+--help                   Show this help
+--version                Show version information
+--config                 default config filename <STRING>
+--inputFeatureFilename   input feature - could be a simple feature file or a list of filename <STRING>
+--labelFilesPath         path of input and output labels <STRING>
+--saveLabelFileExtension output labelFile extension <STRING>
+--labelOutputFrames      output label tag <STRING>
+--alpha                  threshold giving the percentage of data of the middle Gaussian to take into account <FLOAT>
+--segmentalMode          file to have a file by file behaviour <STRING>
+--thresholdMode          this parameter must be set to select 3 top gaussian. It's a default parameter <STRING>
+
+Proceeding Energy based silence detection for [renjith_1]
+(SegTools) Default label file for [renjith_1], nb features[496]
+ total variance flooring = 0 ceiling = 0
+Partial Train it[-1] (-1 means initial partial it) LLK=-900.093 Nb Frames=496
+ total variance flooring = 0 ceiling = 0
+Partial Train it[0] (-1 means initial partial it) LLK=-694.938 Nb Frames=496
+ total variance flooring = 0 ceiling = 0
+Partial Train it[1] (-1 means initial partial it) LLK=-694.094 Nb Frames=496
+ total variance flooring = 0 ceiling = 0
+Partial Train it[2] (-1 means initial partial it) LLK=-693.627 Nb Frames=496
+ total variance flooring = 0 ceiling = 0
+Partial Train it[3] (-1 means initial partial it) LLK=-693.197 Nb Frames=496
+ total variance flooring = 0 ceiling = 0
+Partial Train it[4] (-1 means initial partial it) LLK=-692.769 Nb Frames=496
+ total variance flooring = 0 ceiling = 0
+Partial Train it[5] (-1 means initial partial it) LLK=-692.337 Nb Frames=496
+ total variance flooring = 0 ceiling = 0
+Partial Train it[6] (-1 means initial partial it) LLK=-691.901 Nb Frames=496
+Highest component[2] Mean[1.08453] Cov[0.213532] Weight[0.221375]
+File [renjith_1]	Number of initial frames [496]	Number of selected frames [232]	percentage selected [46]
+Proceeding Energy based silence detection for [renjith_2]
+(SegTools) Default label file for [renjith_2], nb features[496]
+ total variance flooring = 0 ceiling = 0
+Partial Train it[-1] (-1 means initial partial it) LLK=-900.093 Nb Frames=496
+ total variance flooring = 0 ceiling = 0
+Partial Train it[0] (-1 means initial partial it) LLK=-694.938 Nb Frames=496
+ total variance flooring = 0 ceiling = 0
+Partial Train it[1] (-1 means initial partial it) LLK=-694.094 Nb Frames=496
+ total variance flooring = 0 ceiling = 0
+Partial Train it[2] (-1 means initial partial it) LLK=-693.627 Nb Frames=496
+ total variance flooring = 0 ceiling = 0
+Partial Train it[3] (-1 means initial partial it) LLK=-693.197 Nb Frames=496
+ total variance flooring = 0 ceiling = 0
+Partial Train it[4] (-1 means initial partial it) LLK=-692.769 Nb Frames=496
+ total variance flooring = 0 ceiling = 0
+Partial Train it[5] (-1 means initial partial it) LLK=-692.337 Nb Frames=496
+ total variance flooring = 0 ceiling = 0
+Partial Train it[6] (-1 means initial partial it) LLK=-691.901 Nb Frames=496
+Highest component[2] Mean[1.08453] Cov[0.213532] Weight[0.221375]
+File [renjith_2]	Number of initial frames [496]	Number of selected frames [232]	percentage selected [46]
+Proceeding Energy based silence detection for [renjith_3]
+(SegTools) Default label file for [renjith_3], nb features[496]
+ total variance flooring = 0 ceiling = 0
+Partial Train it[-1] (-1 means initial partial it) LLK=-900.093 Nb Frames=496
+ total variance flooring = 0 ceiling = 0
+Partial Train it[0] (-1 means initial partial it) LLK=-694.938 Nb Frames=496
+ total variance flooring = 0 ceiling = 0
+Partial Train it[1] (-1 means initial partial it) LLK=-694.094 Nb Frames=496
+ total variance flooring = 0 ceiling = 0
+Partial Train it[2] (-1 means initial partial it) LLK=-693.627 Nb Frames=496
+ total variance flooring = 0 ceiling = 0
+Partial Train it[3] (-1 means initial partial it) LLK=-693.197 Nb Frames=496
+ total variance flooring = 0 ceiling = 0
+Partial Train it[4] (-1 means initial partial it) LLK=-692.769 Nb Frames=496
+ total variance flooring = 0 ceiling = 0
+Partial Train it[5] (-1 means initial partial it) LLK=-692.337 Nb Frames=496
+ total variance flooring = 0 ceiling = 0
+Partial Train it[6] (-1 means initial partial it) LLK=-691.901 Nb Frames=496
+Highest component[2] Mean[1.08453] Cov[0.213532] Weight[0.221375]
+File [renjith_3]	Number of initial frames [496]	Number of selected frames [232]	percentage selected [46]
+Proceeding Energy based silence detection for [renjith_1]
+(SegTools) Default label file for [renjith_1], nb features[496]
+ total variance flooring = 0 ceiling = 0
+Partial Train it[-1] (-1 means initial partial it) LLK=-900.093 Nb Frames=496
+ total variance flooring = 0 ceiling = 0
+Partial Train it[0] (-1 means initial partial it) LLK=-694.938 Nb Frames=496
+ total variance flooring = 0 ceiling = 0
+Partial Train it[1] (-1 means initial partial it) LLK=-694.094 Nb Frames=496
+ total variance flooring = 0 ceiling = 0
+Partial Train it[2] (-1 means initial partial it) LLK=-693.627 Nb Frames=496
+ total variance flooring = 0 ceiling = 0
+Partial Train it[3] (-1 means initial partial it) LLK=-693.197 Nb Frames=496
+ total variance flooring = 0 ceiling = 0
+Partial Train it[4] (-1 means initial partial it) LLK=-692.769 Nb Frames=496
+ total variance flooring = 0 ceiling = 0
+Partial Train it[5] (-1 means initial partial it) LLK=-692.337 Nb Frames=496
+ total variance flooring = 0 ceiling = 0
+Partial Train it[6] (-1 means initial partial it) LLK=-691.901 Nb Frames=496
+Highest component[2] Mean[1.08453] Cov[0.213532] Weight[0.221375]
+File [renjith_1]	Number of initial frames [496]	Number of selected frames [232]	percentage selected [46]
+Proceeding Energy based silence detection for [renjith_2]
+(SegTools) Default label file for [renjith_2], nb features[496]
+ total variance flooring = 0 ceiling = 0
+Partial Train it[-1] (-1 means initial partial it) LLK=-900.093 Nb Frames=496
+ total variance flooring = 0 ceiling = 0
+Partial Train it[0] (-1 means initial partial it) LLK=-694.938 Nb Frames=496
+ total variance flooring = 0 ceiling = 0
+Partial Train it[1] (-1 means initial partial it) LLK=-694.094 Nb Frames=496
+ total variance flooring = 0 ceiling = 0
+Partial Train it[2] (-1 means initial partial it) LLK=-693.627 Nb Frames=496
+ total variance flooring = 0 ceiling = 0
+Partial Train it[3] (-1 means initial partial it) LLK=-693.197 Nb Frames=496
+ total variance flooring = 0 ceiling = 0
+Partial Train it[4] (-1 means initial partial it) LLK=-692.769 Nb Frames=496
+ total variance flooring = 0 ceiling = 0
+Partial Train it[5] (-1 means initial partial it) LLK=-692.337 Nb Frames=496
+ total variance flooring = 0 ceiling = 0
+Partial Train it[6] (-1 means initial partial it) LLK=-691.901 Nb Frames=496
+Highest component[2] Mean[1.08453] Cov[0.213532] Weight[0.221375]
+File [renjith_2]	Number of initial frames [496]	Number of selected frames [232]	percentage selected [46]
+Proceeding Energy based silence detection for [renjith_3]
+(SegTools) Default label file for [renjith_3], nb features[496]
+ total variance flooring = 0 ceiling = 0
+Partial Train it[-1] (-1 means initial partial it) LLK=-900.093 Nb Frames=496
+ total variance flooring = 0 ceiling = 0
+Partial Train it[0] (-1 means initial partial it) LLK=-694.938 Nb Frames=496
+ total variance flooring = 0 ceiling = 0
+Partial Train it[1] (-1 means initial partial it) LLK=-694.094 Nb Frames=496
+ total variance flooring = 0 ceiling = 0
+Partial Train it[2] (-1 means initial partial it) LLK=-693.627 Nb Frames=496
+ total variance flooring = 0 ceiling = 0
+Partial Train it[3] (-1 means initial partial it) LLK=-693.197 Nb Frames=496
+ total variance flooring = 0 ceiling = 0
+Partial Train it[4] (-1 means initial partial it) LLK=-692.769 Nb Frames=496
+ total variance flooring = 0 ceiling = 0
+Partial Train it[5] (-1 means initial partial it) LLK=-692.337 Nb Frames=496
+ total variance flooring = 0 ceiling = 0
+Partial Train it[6] (-1 means initial partial it) LLK=-691.901 Nb Frames=496
+Highest component[2] Mean[1.08453] Cov[0.213532] Weight[0.221375]
+File [renjith_3]	Number of initial frames [496]	Number of selected frames [232]	percentage selected [46]
+Proceeding Energy based silence detection for [renjith_1]
+(SegTools) Default label file for [renjith_1], nb features[496]
+ total variance flooring = 0 ceiling = 0
+Partial Train it[-1] (-1 means initial partial it) LLK=-900.093 Nb Frames=496
+ total variance flooring = 0 ceiling = 0
+Partial Train it[0] (-1 means initial partial it) LLK=-694.938 Nb Frames=496
+ total variance flooring = 0 ceiling = 0
+Partial Train it[1] (-1 means initial partial it) LLK=-694.094 Nb Frames=496
+ total variance flooring = 0 ceiling = 0
+Partial Train it[2] (-1 means initial partial it) LLK=-693.627 Nb Frames=496
+ total variance flooring = 0 ceiling = 0
+Partial Train it[3] (-1 means initial partial it) LLK=-693.197 Nb Frames=496
+ total variance flooring = 0 ceiling = 0
+Partial Train it[4] (-1 means initial partial it) LLK=-692.769 Nb Frames=496
+ total variance flooring = 0 ceiling = 0
+Partial Train it[5] (-1 means initial partial it) LLK=-692.337 Nb Frames=496
+ total variance flooring = 0 ceiling = 0
+Partial Train it[6] (-1 means initial partial it) LLK=-691.901 Nb Frames=496
+Highest component[2] Mean[1.08453] Cov[0.213532] Weight[0.221375]
+File [renjith_1]	Number of initial frames [496]	Number of selected frames [232]	percentage selected [46]
+Proceeding Energy based silence detection for [renjith_2]
+(SegTools) Default label file for [renjith_2], nb features[496]
+ total variance flooring = 0 ceiling = 0
+Partial Train it[-1] (-1 means initial partial it) LLK=-900.093 Nb Frames=496
+ total variance flooring = 0 ceiling = 0
+Partial Train it[0] (-1 means initial partial it) LLK=-694.938 Nb Frames=496
+ total variance flooring = 0 ceiling = 0
+Partial Train it[1] (-1 means initial partial it) LLK=-694.094 Nb Frames=496
+ total variance flooring = 0 ceiling = 0
+Partial Train it[2] (-1 means initial partial it) LLK=-693.627 Nb Frames=496
+ total variance flooring = 0 ceiling = 0
+Partial Train it[3] (-1 means initial partial it) LLK=-693.197 Nb Frames=496
+ total variance flooring = 0 ceiling = 0
+Partial Train it[4] (-1 means initial partial it) LLK=-692.769 Nb Frames=496
+ total variance flooring = 0 ceiling = 0
+Partial Train it[5] (-1 means initial partial it) LLK=-692.337 Nb Frames=496
+ total variance flooring = 0 ceiling = 0
+Partial Train it[6] (-1 means initial partial it) LLK=-691.901 Nb Frames=496
+Highest component[2] Mean[1.08453] Cov[0.213532] Weight[0.221375]
+File [renjith_2]	Number of initial frames [496]	Number of selected frames [232]	percentage selected [46]
+Proceeding Energy based silence detection for [renjith_3]
+(SegTools) Default label file for [renjith_3], nb features[496]
+ total variance flooring = 0 ceiling = 0
+Partial Train it[-1] (-1 means initial partial it) LLK=-900.093 Nb Frames=496
+ total variance flooring = 0 ceiling = 0
+Partial Train it[0] (-1 means initial partial it) LLK=-694.938 Nb Frames=496
+ total variance flooring = 0 ceiling = 0
+Partial Train it[1] (-1 means initial partial it) LLK=-694.094 Nb Frames=496
+ total variance flooring = 0 ceiling = 0
+Partial Train it[2] (-1 means initial partial it) LLK=-693.627 Nb Frames=496
+ total variance flooring = 0 ceiling = 0
+Partial Train it[3] (-1 means initial partial it) LLK=-693.197 Nb Frames=496
+ total variance flooring = 0 ceiling = 0
+Partial Train it[4] (-1 means initial partial it) LLK=-692.769 Nb Frames=496
+ total variance flooring = 0 ceiling = 0
+Partial Train it[5] (-1 means initial partial it) LLK=-692.337 Nb Frames=496
+ total variance flooring = 0 ceiling = 0
+Partial Train it[6] (-1 means initial partial it) LLK=-691.901 Nb Frames=496
+Highest component[2] Mean[1.08453] Cov[0.213532] Weight[0.221375]
+File [renjith_3]	Number of initial frames [496]	Number of selected frames [232]	percentage selected [46]
+Proceeding Energy based silence detection for [renj_1]
+(SegTools) Default label file for [renj_1], nb features[926]
+ total variance flooring = 0 ceiling = 0
+Partial Train it[-1] (-1 means initial partial it) LLK=-1682.26 Nb Frames=926
+ total variance flooring = 0 ceiling = 0
+Partial Train it[0] (-1 means initial partial it) LLK=-1269.79 Nb Frames=926
+ total variance flooring = 0 ceiling = 0
+Partial Train it[1] (-1 means initial partial it) LLK=-1246.57 Nb Frames=926
+ total variance flooring = 0 ceiling = 0
+Partial Train it[2] (-1 means initial partial it) LLK=-1228.96 Nb Frames=926
+ total variance flooring = 0 ceiling = 0
+Partial Train it[3] (-1 means initial partial it) LLK=-1220.88 Nb Frames=926
+ total variance flooring = 0 ceiling = 0
+Partial Train it[4] (-1 means initial partial it) LLK=-1217.48 Nb Frames=926
+ total variance flooring = 0 ceiling = 0
+Partial Train it[5] (-1 means initial partial it) LLK=-1215.96 Nb Frames=926
+ total variance flooring = 0 ceiling = 0
+Partial Train it[6] (-1 means initial partial it) LLK=-1215.19 Nb Frames=926
+Highest component[2] Mean[1.1258] Cov[0.078152] Weight[0.271402]
+File [renj_1]	Number of initial frames [926]	Number of selected frames [326]	percentage selected [35]
+Proceeding Energy based silence detection for [renj_2]
+(SegTools) Default label file for [renj_2], nb features[996]
+ total variance flooring = 0 ceiling = 0
+Partial Train it[-1] (-1 means initial partial it) LLK=-1802 Nb Frames=996
+ total variance flooring = 0 ceiling = 0
+Partial Train it[0] (-1 means initial partial it) LLK=-1356.88 Nb Frames=996
+ total variance flooring = 0 ceiling = 0
+Partial Train it[1] (-1 means initial partial it) LLK=-1341.01 Nb Frames=996
+ total variance flooring = 0 ceiling = 0
+Partial Train it[2] (-1 means initial partial it) LLK=-1335.38 Nb Frames=996
+ total variance flooring = 0 ceiling = 0
+Partial Train it[3] (-1 means initial partial it) LLK=-1333.01 Nb Frames=996
+ total variance flooring = 0 ceiling = 0
+Partial Train it[4] (-1 means initial partial it) LLK=-1331.78 Nb Frames=996
+ total variance flooring = 0 ceiling = 0
+Partial Train it[5] (-1 means initial partial it) LLK=-1331.05 Nb Frames=996
+ total variance flooring = 0 ceiling = 0
+Partial Train it[6] (-1 means initial partial it) LLK=-1330.57 Nb Frames=996
+Highest component[2] Mean[1.07133] Cov[0.134991] Weight[0.279067]
+File [renj_2]	Number of initial frames [996]	Number of selected frames [420]	percentage selected [42]
+Proceeding Energy based silence detection for [renj_3]
+(SegTools) Default label file for [renj_3], nb features[996]
+ total variance flooring = 0 ceiling = 0
+Partial Train it[-1] (-1 means initial partial it) LLK=-1801.96 Nb Frames=996
+ total variance flooring = 0 ceiling = 0
+Partial Train it[0] (-1 means initial partial it) LLK=-1363.02 Nb Frames=996
+ total variance flooring = 0 ceiling = 0
+Partial Train it[1] (-1 means initial partial it) LLK=-1350.11 Nb Frames=996
+ total variance flooring = 0 ceiling = 0
+Partial Train it[2] (-1 means initial partial it) LLK=-1345.98 Nb Frames=996
+ total variance flooring = 0 ceiling = 0
+Partial Train it[3] (-1 means initial partial it) LLK=-1344.32 Nb Frames=996
+ total variance flooring = 0 ceiling = 0
+Partial Train it[4] (-1 means initial partial it) LLK=-1343.44 Nb Frames=996
+ total variance flooring = 0 ceiling = 0
+Partial Train it[5] (-1 means initial partial it) LLK=-1342.86 Nb Frames=996
+ total variance flooring = 0 ceiling = 0
+Partial Train it[6] (-1 means initial partial it) LLK=-1342.46 Nb Frames=996
+Highest component[2] Mean[1.06842] Cov[0.159677] Weight[0.271309]
+File [renj_3]	Number of initial frames [996]	Number of selected frames [440]	percentage selected [44]
+Proceeding Energy based silence detection for [shyam_1]
+[ FileNotFoundException 0xa0ca1b0 ]
+  message   = ""
+  source file = FileReader.cpp
+  line number = 101
+  fileName =  data/prm/shyam_1.enr.tmp.prm
+--help                   Show this help
+--version                Show version information
+--config                 default config filename <STRING>
+--inputFeatureFilename   input feature - could be a simple feature file or a list of filename <STRING>
+--labelFilesPath         path of input and output labels <STRING>
+--saveLabelFileExtension output labelFile extension <STRING>
+--labelOutputFrames      output label tag <STRING>
+--alpha                  threshold giving the percentage of data of the middle Gaussian to take into account <FLOAT>
+--segmentalMode          file to have a file by file behaviour <STRING>
+--thresholdMode          this parameter must be set to select 3 top gaussian. It's a default parameter <STRING>
+
+Proceeding Energy based silence detection for [shyam_1]
+(SegTools) Default label file for [shyam_1], nb features[956]
+ total variance flooring = 0 ceiling = 0
+Partial Train it[-1] (-1 means initial partial it) LLK=-1738.08 Nb Frames=956
+ total variance flooring = 0 ceiling = 0
+Partial Train it[0] (-1 means initial partial it) LLK=-1348.05 Nb Frames=956
+ total variance flooring = 0 ceiling = 0
+Partial Train it[1] (-1 means initial partial it) LLK=-1339.25 Nb Frames=956
+ total variance flooring = 0 ceiling = 0
+Partial Train it[2] (-1 means initial partial it) LLK=-1330.18 Nb Frames=956
+ total variance flooring = 0 ceiling = 0
+Partial Train it[3] (-1 means initial partial it) LLK=-1321.27 Nb Frames=956
+ total variance flooring = 0 ceiling = 0
+Partial Train it[4] (-1 means initial partial it) LLK=-1313.64 Nb Frames=956
+ total variance flooring = 0 ceiling = 0
+Partial Train it[5] (-1 means initial partial it) LLK=-1307.73 Nb Frames=956
+ total variance flooring = 0 ceiling = 0
+Partial Train it[6] (-1 means initial partial it) LLK=-1303.26 Nb Frames=956
+Highest component[2] Mean[0.832297] Cov[1.12948] Weight[0.172943]
+File [shyam_1]	Number of initial frames [956]	Number of selected frames [847]	percentage selected [88]
+Proceeding Energy based silence detection for [shyam_2]
+(SegTools) Default label file for [shyam_2], nb features[996]
+ total variance flooring = 0 ceiling = 0
+Partial Train it[-1] (-1 means initial partial it) LLK=-1802.31 Nb Frames=996
+ total variance flooring = 0 ceiling = 0
+Partial Train it[0] (-1 means initial partial it) LLK=-1326.52 Nb Frames=996
+ total variance flooring = 0 ceiling = 0
+Partial Train it[1] (-1 means initial partial it) LLK=-1295.67 Nb Frames=996
+ total variance flooring = 0 ceiling = 0
+Partial Train it[2] (-1 means initial partial it) LLK=-1284.99 Nb Frames=996
+ total variance flooring = 0 ceiling = 0
+Partial Train it[3] (-1 means initial partial it) LLK=-1281.5 Nb Frames=996
+ total variance flooring = 0 ceiling = 0
+Partial Train it[4] (-1 means initial partial it) LLK=-1280.27 Nb Frames=996
+ total variance flooring = 0 ceiling = 0
+Partial Train it[5] (-1 means initial partial it) LLK=-1279.71 Nb Frames=996
+ total variance flooring = 0 ceiling = 0
+Partial Train it[6] (-1 means initial partial it) LLK=-1279.37 Nb Frames=996
+Highest component[2] Mean[1.09638] Cov[0.130762] Weight[0.292067]
+File [shyam_2]	Number of initial frames [996]	Number of selected frames [414]	percentage selected [41]
+Proceeding Energy based silence detection for [shyam_3]
+(SegTools) Default label file for [shyam_3], nb features[976]
+ total variance flooring = 0 ceiling = 0
+Partial Train it[-1] (-1 means initial partial it) LLK=-1766.36 Nb Frames=976
+ total variance flooring = 0 ceiling = 0
+Partial Train it[0] (-1 means initial partial it) LLK=-1301.55 Nb Frames=976
+ total variance flooring = 0 ceiling = 0
+Partial Train it[1] (-1 means initial partial it) LLK=-1274.07 Nb Frames=976
+ total variance flooring = 0 ceiling = 0
+Partial Train it[2] (-1 means initial partial it) LLK=-1263.53 Nb Frames=976
+ total variance flooring = 0 ceiling = 0
+Partial Train it[3] (-1 means initial partial it) LLK=-1259.66 Nb Frames=976
+ total variance flooring = 0 ceiling = 0
+Partial Train it[4] (-1 means initial partial it) LLK=-1258.11 Nb Frames=976
+ total variance flooring = 0 ceiling = 0
+Partial Train it[5] (-1 means initial partial it) LLK=-1257.31 Nb Frames=976
+ total variance flooring = 0 ceiling = 0
+Partial Train it[6] (-1 means initial partial it) LLK=-1256.79 Nb Frames=976
+Highest component[2] Mean[0.89265] Cov[0.124928] Weight[0.326889]
+File [shyam_3]	Number of initial frames [976]	Number of selected frames [501]	percentage selected [51]
+Proceeding Energy based silence detection for [renj_1]
+(SegTools) Default label file for [renj_1], nb features[956]
+ total variance flooring = 0 ceiling = 0
+Partial Train it[-1] (-1 means initial partial it) LLK=-1760.19 Nb Frames=956
+ total variance flooring = 0 ceiling = 1
+Partial Train it[0] (-1 means initial partial it) LLK=-1279.39 Nb Frames=956
+ total variance flooring = 0 ceiling = 1
+Partial Train it[1] (-1 means initial partial it) LLK=-1266.78 Nb Frames=956
+ total variance flooring = 0 ceiling = 1
+Partial Train it[2] (-1 means initial partial it) LLK=-1257.54 Nb Frames=956
+ total variance flooring = 0 ceiling = 1
+Partial Train it[3] (-1 means initial partial it) LLK=-1248.52 Nb Frames=956
+ total variance flooring = 0 ceiling = 1
+Partial Train it[4] (-1 means initial partial it) LLK=-1240.75 Nb Frames=956
+ total variance flooring = 0 ceiling = 1
+Partial Train it[5] (-1 means initial partial it) LLK=-1234.87 Nb Frames=956
+ total variance flooring = 0 ceiling = 1
+Partial Train it[6] (-1 means initial partial it) LLK=-1230.63 Nb Frames=956
+Highest component[2] Mean[1.57352] Cov[1.5] Weight[0.104008]
+File [renj_1]	Number of initial frames [956]	Number of selected frames [751]	percentage selected [78]
+Proceeding Energy based silence detection for [renj_2]
+(SegTools) Default label file for [renj_2], nb features[976]
+ total variance flooring = 0 ceiling = 0
+Partial Train it[-1] (-1 means initial partial it) LLK=-1768.56 Nb Frames=976
+ total variance flooring = 0 ceiling = 0
+Partial Train it[0] (-1 means initial partial it) LLK=-1350.85 Nb Frames=976
+ total variance flooring = 0 ceiling = 0
+Partial Train it[1] (-1 means initial partial it) LLK=-1343.14 Nb Frames=976
+ total variance flooring = 0 ceiling = 0
+Partial Train it[2] (-1 means initial partial it) LLK=-1339.85 Nb Frames=976
+ total variance flooring = 0 ceiling = 0
+Partial Train it[3] (-1 means initial partial it) LLK=-1338.32 Nb Frames=976
+ total variance flooring = 0 ceiling = 0
+Partial Train it[4] (-1 means initial partial it) LLK=-1337.59 Nb Frames=976
+ total variance flooring = 0 ceiling = 0
+Partial Train it[5] (-1 means initial partial it) LLK=-1337.22 Nb Frames=976
+ total variance flooring = 0 ceiling = 0
+Partial Train it[6] (-1 means initial partial it) LLK=-1337.03 Nb Frames=976
+Highest component[2] Mean[0.839182] Cov[0.180237] Weight[0.26423]
+File [renj_2]	Number of initial frames [976]	Number of selected frames [535]	percentage selected [54]
+Proceeding Energy based silence detection for [renj_3]
+(SegTools) Default label file for [renj_3], nb features[972]
+ total variance flooring = 0 ceiling = 0
+Partial Train it[-1] (-1 means initial partial it) LLK=-1758.74 Nb Frames=972
+ total variance flooring = 0 ceiling = 0
+Partial Train it[0] (-1 means initial partial it) LLK=-1342.8 Nb Frames=972
+ total variance flooring = 0 ceiling = 0
+Partial Train it[1] (-1 means initial partial it) LLK=-1331.42 Nb Frames=972
+ total variance flooring = 0 ceiling = 0
+Partial Train it[2] (-1 means initial partial it) LLK=-1325.72 Nb Frames=972
+ total variance flooring = 0 ceiling = 0
+Partial Train it[3] (-1 means initial partial it) LLK=-1322.52 Nb Frames=972
+ total variance flooring = 0 ceiling = 0
+Partial Train it[4] (-1 means initial partial it) LLK=-1320.68 Nb Frames=972
+ total variance flooring = 0 ceiling = 0
+Partial Train it[5] (-1 means initial partial it) LLK=-1319.6 Nb Frames=972
+ total variance flooring = 0 ceiling = 0
+Partial Train it[6] (-1 means initial partial it) LLK=-1318.97 Nb Frames=972
+Highest component[2] Mean[0.878566] Cov[0.235879] Weight[0.249513]
+File [renj_3]	Number of initial frames [972]	Number of selected frames [542]	percentage selected [55]
+Proceeding Energy based silence detection for [binil_1]
+(SegTools) Default label file for [binil_1], nb features[960]
+ total variance flooring = 0 ceiling = 0
+Partial Train it[-1] (-1 means initial partial it) LLK=-1759.76 Nb Frames=960
+ total variance flooring = 0 ceiling = 0
+Partial Train it[0] (-1 means initial partial it) LLK=-1296.66 Nb Frames=960
+ total variance flooring = 0 ceiling = 0
+Partial Train it[1] (-1 means initial partial it) LLK=-1294.02 Nb Frames=960
+ total variance flooring = 0 ceiling = 0
+Partial Train it[2] (-1 means initial partial it) LLK=-1293.15 Nb Frames=960
+ total variance flooring = 0 ceiling = 1
+Partial Train it[3] (-1 means initial partial it) LLK=-1292.55 Nb Frames=960
+ total variance flooring = 0 ceiling = 1
+Partial Train it[4] (-1 means initial partial it) LLK=-1292.19 Nb Frames=960
+ total variance flooring = 0 ceiling = 1
+Partial Train it[5] (-1 means initial partial it) LLK=-1291.98 Nb Frames=960
+ total variance flooring = 0 ceiling = 1
+Partial Train it[6] (-1 means initial partial it) LLK=-1291.82 Nb Frames=960
+Highest component[2] Mean[1.1916] Cov[1.5] Weight[0.169741]
+File [binil_1]	Number of initial frames [960]	Number of selected frames [893]	percentage selected [93]
+Proceeding Energy based silence detection for [binil_2]
+(SegTools) Default label file for [binil_2], nb features[996]
+ total variance flooring = 0 ceiling = 0
+Partial Train it[-1] (-1 means initial partial it) LLK=-1803.48 Nb Frames=996
+ total variance flooring = 0 ceiling = 0
+Partial Train it[0] (-1 means initial partial it) LLK=-1400.28 Nb Frames=996
+ total variance flooring = 0 ceiling = 0
+Partial Train it[1] (-1 means initial partial it) LLK=-1398.77 Nb Frames=996
+ total variance flooring = 0 ceiling = 0
+Partial Train it[2] (-1 means initial partial it) LLK=-1398.11 Nb Frames=996
+ total variance flooring = 0 ceiling = 0
+Partial Train it[3] (-1 means initial partial it) LLK=-1397.68 Nb Frames=996
+ total variance flooring = 0 ceiling = 0
+Partial Train it[4] (-1 means initial partial it) LLK=-1397.33 Nb Frames=996
+ total variance flooring = 0 ceiling = 0
+Partial Train it[5] (-1 means initial partial it) LLK=-1397.04 Nb Frames=996
+ total variance flooring = 0 ceiling = 0
+Partial Train it[6] (-1 means initial partial it) LLK=-1396.79 Nb Frames=996
+Highest component[2] Mean[0.941607] Cov[0.365901] Weight[0.225979]
+File [binil_2]	Number of initial frames [996]	Number of selected frames [629]	percentage selected [63]
+Proceeding Energy based silence detection for [binil_3]
+(SegTools) Default label file for [binil_3], nb features[994]
+ total variance flooring = 0 ceiling = 0
+Partial Train it[-1] (-1 means initial partial it) LLK=-1804.45 Nb Frames=994
+ total variance flooring = 0 ceiling = 0
+Partial Train it[0] (-1 means initial partial it) LLK=-1388.52 Nb Frames=994
+ total variance flooring = 0 ceiling = 0
+Partial Train it[1] (-1 means initial partial it) LLK=-1387.69 Nb Frames=994
+ total variance flooring = 0 ceiling = 0
+Partial Train it[2] (-1 means initial partial it) LLK=-1387.57 Nb Frames=994
+ total variance flooring = 0 ceiling = 0
+Partial Train it[3] (-1 means initial partial it) LLK=-1387.48 Nb Frames=994
+ total variance flooring = 0 ceiling = 0
+Partial Train it[4] (-1 means initial partial it) LLK=-1387.39 Nb Frames=994
+ total variance flooring = 0 ceiling = 0
+Partial Train it[5] (-1 means initial partial it) LLK=-1387.3 Nb Frames=994
+ total variance flooring = 0 ceiling = 0
+Partial Train it[6] (-1 means initial partial it) LLK=-1387.21 Nb Frames=994
+Highest component[2] Mean[1.2096] Cov[0.766101] Weight[0.203494]
+File [binil_3]	Number of initial frames [994]	Number of selected frames [682]	percentage selected [68]

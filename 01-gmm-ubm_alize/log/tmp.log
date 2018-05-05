@@ -1,0 +1,1463 @@
+1+(0.0)11111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111-(4.98)
+1+(0.0)11111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111-(4.98)
+1+(0.0)11111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111-(4.98)
+NormFeatFile Mode- Normalisation by file by file
+var and mean normalisation
+[ FileNotFoundException 0x8e6b0b0 ]
+  message   = ""
+  source file = FileReader.cpp
+  line number = 101
+  fileName =  ./wav/renjith_1
+Proceeding Energy based silence detection for [./wav/renjith_1]
+[ FileNotFoundException 0x9b5c1b0 ]
+  message   = ""
+  source file = FileReader.cpp
+  line number = 101
+  fileName =  ./wav/renjith_1
+--help                   Show this help
+--version                Show version information
+--config                 default config filename <STRING>
+--inputFeatureFilename   input feature - could be a simple feature file or a list of filename <STRING>
+--labelFilesPath         path of input and output labels <STRING>
+--saveLabelFileExtension output labelFile extension <STRING>
+--labelOutputFrames      output label tag <STRING>
+--alpha                  threshold giving the percentage of data of the middle Gaussian to take into account <FLOAT>
+--segmentalMode          file to have a file by file behaviour <STRING>
+--thresholdMode          this parameter must be set to select 3 top gaussian. It's a default parameter <STRING>
+
+NormFeatFile Mode- Normalisation by file by file
+var and mean normalisation
+[ FileNotFoundException 0x86a3100 ]
+  message   = ""
+  source file = FileReader.cpp
+  line number = 101
+  fileName =  ./wav/renjith_1
+1+(0.0)11111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111-(4.98)
+1+(0.0)11111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111-(4.98)
+1+(0.0)11111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111-(4.98)
+NormFeatFile Mode- Normalisation by file by file
+var and mean normalisation
+[ FileNotFoundException 0x8f070b0 ]
+  message   = ""
+  source file = FileReader.cpp
+  line number = 101
+  fileName =  ./wav/renjith_1
+Proceeding Energy based silence detection for [./wav/renjith_1]
+[ FileNotFoundException 0x917b1b0 ]
+  message   = ""
+  source file = FileReader.cpp
+  line number = 101
+  fileName =  ./wav/renjith_1
+--help                   Show this help
+--version                Show version information
+--config                 default config filename <STRING>
+--inputFeatureFilename   input feature - could be a simple feature file or a list of filename <STRING>
+--labelFilesPath         path of input and output labels <STRING>
+--saveLabelFileExtension output labelFile extension <STRING>
+--labelOutputFrames      output label tag <STRING>
+--alpha                  threshold giving the percentage of data of the middle Gaussian to take into account <FLOAT>
+--segmentalMode          file to have a file by file behaviour <STRING>
+--thresholdMode          this parameter must be set to select 3 top gaussian. It's a default parameter <STRING>
+
+NormFeatFile Mode- Normalisation by file by file
+var and mean normalisation
+[ FileNotFoundException 0x952d100 ]
+  message   = ""
+  source file = FileReader.cpp
+  line number = 101
+  fileName =  ./wav/renjith_1
+1+(0.0)11111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111-(4.98)
+1+(0.0)11111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111-(4.98)
+1+(0.0)11111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111-(4.98)
+NormFeatFile Mode- Normalisation by file by file
+var and mean normalisation
+[ FileNotFoundException 0x8b330b0 ]
+  message   = ""
+  source file = FileReader.cpp
+  line number = 101
+  fileName =  ./wav/renjith_1
+Proceeding Energy based silence detection for [./wav/renjith_1]
+[ FileNotFoundException 0x864c1b0 ]
+  message   = ""
+  source file = FileReader.cpp
+  line number = 101
+  fileName =  ./wav/renjith_1
+--help                   Show this help
+--version                Show version information
+--config                 default config filename <STRING>
+--inputFeatureFilename   input feature - could be a simple feature file or a list of filename <STRING>
+--labelFilesPath         path of input and output labels <STRING>
+--saveLabelFileExtension output labelFile extension <STRING>
+--labelOutputFrames      output label tag <STRING>
+--alpha                  threshold giving the percentage of data of the middle Gaussian to take into account <FLOAT>
+--segmentalMode          file to have a file by file behaviour <STRING>
+--thresholdMode          this parameter must be set to select 3 top gaussian. It's a default parameter <STRING>
+
+NormFeatFile Mode- Normalisation by file by file
+var and mean normalisation
+[ FileNotFoundException 0x8354100 ]
+  message   = ""
+  source file = FileReader.cpp
+  line number = 101
+  fileName =  ./wav/renjith_1
+1+(0.0)11111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111-(4.98)
+1+(0.0)11111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111-(4.98)
+1+(0.0)11111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111-(4.98)
+NormFeatFile Mode- Normalisation by file by file
+var and mean normalisation
+[ FileNotFoundException 0x86a40b0 ]
+  message   = ""
+  source file = FileReader.cpp
+  line number = 101
+  fileName =  ./wav/renjith_1
+Proceeding Energy based silence detection for [./wav/renjith_1]
+[ FileNotFoundException 0x94fb1b0 ]
+  message   = ""
+  source file = FileReader.cpp
+  line number = 101
+  fileName =  ./wav/renjith_1
+--help                   Show this help
+--version                Show version information
+--config                 default config filename <STRING>
+--inputFeatureFilename   input feature - could be a simple feature file or a list of filename <STRING>
+--labelFilesPath         path of input and output labels <STRING>
+--saveLabelFileExtension output labelFile extension <STRING>
+--labelOutputFrames      output label tag <STRING>
+--alpha                  threshold giving the percentage of data of the middle Gaussian to take into account <FLOAT>
+--segmentalMode          file to have a file by file behaviour <STRING>
+--thresholdMode          this parameter must be set to select 3 top gaussian. It's a default parameter <STRING>
+
+NormFeatFile Mode- Normalisation by file by file
+var and mean normalisation
+[ FileNotFoundException 0x877c100 ]
+  message   = ""
+  source file = FileReader.cpp
+  line number = 101
+  fileName =  ./wav/renjith_1
+1+(0.0)11111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111-(4.98)
+1+(0.0)11111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111-(4.98)
+1+(0.0)11111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111-(4.98)
+NormFeatFile Mode- Normalisation by file by file
+var and mean normalisation
+[ FileNotFoundException 0x9ce40b0 ]
+  message   = ""
+  source file = FileReader.cpp
+  line number = 101
+  fileName =  ./wav/renjith_1
+Proceeding Energy based silence detection for [./wav/renjith_1]
+[ FileNotFoundException 0x83891b0 ]
+  message   = ""
+  source file = FileReader.cpp
+  line number = 101
+  fileName =  ./wav/renjith_1
+--help                   Show this help
+--version                Show version information
+--config                 default config filename <STRING>
+--inputFeatureFilename   input feature - could be a simple feature file or a list of filename <STRING>
+--labelFilesPath         path of input and output labels <STRING>
+--saveLabelFileExtension output labelFile extension <STRING>
+--labelOutputFrames      output label tag <STRING>
+--alpha                  threshold giving the percentage of data of the middle Gaussian to take into account <FLOAT>
+--segmentalMode          file to have a file by file behaviour <STRING>
+--thresholdMode          this parameter must be set to select 3 top gaussian. It's a default parameter <STRING>
+
+NormFeatFile Mode- Normalisation by file by file
+var and mean normalisation
+[ FileNotFoundException 0x8288100 ]
+  message   = ""
+  source file = FileReader.cpp
+  line number = 101
+  fileName =  ./wav/renjith_1
+NormFeatFile Mode- Normalisation by file by file
+var and mean normalisation
+[ FileNotFoundException 0x98470b0 ]
+  message   = ""
+  source file = FileReader.cpp
+  line number = 101
+  fileName =  data/prm/renjith_1.mfc
+Proceeding Energy based silence detection for [renjith_1]
+[ FileNotFoundException 0x869e1b0 ]
+  message   = ""
+  source file = FileReader.cpp
+  line number = 101
+  fileName =  data/prm/renjith_1.enr.tmp.prm
+--help                   Show this help
+--version                Show version information
+--config                 default config filename <STRING>
+--inputFeatureFilename   input feature - could be a simple feature file or a list of filename <STRING>
+--labelFilesPath         path of input and output labels <STRING>
+--saveLabelFileExtension output labelFile extension <STRING>
+--labelOutputFrames      output label tag <STRING>
+--alpha                  threshold giving the percentage of data of the middle Gaussian to take into account <FLOAT>
+--segmentalMode          file to have a file by file behaviour <STRING>
+--thresholdMode          this parameter must be set to select 3 top gaussian. It's a default parameter <STRING>
+
+NormFeatFile Mode- Normalisation by file by file
+var and mean normalisation
+[ FileNotFoundException 0x94de100 ]
+  message   = ""
+  source file = FileReader.cpp
+  line number = 101
+  fileName =  data/prm/renjith_1.mfc
+1+(0.0)11111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111-(4.98)
+1+(0.0)11111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111-(4.98)
+1+(0.0)11111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111-(4.98)
+NormFeatFile Mode- Normalisation by file by file
+var and mean normalisation
+(SegTools) Default label file for [renjith_1], nb features[496]
+NormFeat file normalisation[renjith_1]
+(General Tools) Compute CMS on Feature Server
+Writing to: renjith_1
+(GeneralTools) Writing [renjith_1] begin:0 length:496
+(SegTools) Default label file for [renjith_2], nb features[496]
+NormFeat file normalisation[renjith_2]
+(General Tools) Compute CMS on Feature Server
+Writing to: renjith_2
+(GeneralTools) Writing [renjith_2] begin:0 length:496
+(SegTools) Default label file for [renjith_3], nb features[496]
+NormFeat file normalisation[renjith_3]
+(General Tools) Compute CMS on Feature Server
+Writing to: renjith_3
+(GeneralTools) Writing [renjith_3] begin:0 length:496
+Proceeding Energy based silence detection for [renjith_1]
+(SegTools) Default label file for [renjith_1], nb features[496]
+ total variance flooring = 0 ceiling = 0
+Partial Train it[-1] (-1 means initial partial it) LLK=-900.093 Nb Frames=496
+ total variance flooring = 0 ceiling = 0
+Partial Train it[0] (-1 means initial partial it) LLK=-694.938 Nb Frames=496
+ total variance flooring = 0 ceiling = 0
+Partial Train it[1] (-1 means initial partial it) LLK=-694.094 Nb Frames=496
+ total variance flooring = 0 ceiling = 0
+Partial Train it[2] (-1 means initial partial it) LLK=-693.627 Nb Frames=496
+ total variance flooring = 0 ceiling = 0
+Partial Train it[3] (-1 means initial partial it) LLK=-693.197 Nb Frames=496
+ total variance flooring = 0 ceiling = 0
+Partial Train it[4] (-1 means initial partial it) LLK=-692.769 Nb Frames=496
+ total variance flooring = 0 ceiling = 0
+Partial Train it[5] (-1 means initial partial it) LLK=-692.337 Nb Frames=496
+ total variance flooring = 0 ceiling = 0
+Partial Train it[6] (-1 means initial partial it) LLK=-691.901 Nb Frames=496
+Highest component[2] Mean[1.08453] Cov[0.213532] Weight[0.221375]
+File [renjith_1]	Number of initial frames [496]	Number of selected frames [232]	percentage selected [46]
+[ Exception 0x82ab380 ]
+  message   = "Can't create label file"
+  source file = SegTools.cpp
+  line number = 110
+--help                   Show this help
+--version                Show version information
+--config                 default config filename <STRING>
+--inputFeatureFilename   input feature - could be a simple feature file or a list of filename <STRING>
+--labelFilesPath         path of input and output labels <STRING>
+--saveLabelFileExtension output labelFile extension <STRING>
+--labelOutputFrames      output label tag <STRING>
+--alpha                  threshold giving the percentage of data of the middle Gaussian to take into account <FLOAT>
+--segmentalMode          file to have a file by file behaviour <STRING>
+--thresholdMode          this parameter must be set to select 3 top gaussian. It's a default parameter <STRING>
+
+NormFeatFile Mode- Normalisation by file by file
+var and mean normalisation
+(SegTools) >> Proceeding label file reading for [renjith_1] <<
+(SegTools) Default label file for [renjith_1], nb features[496]
+NormFeat file normalisation[renjith_1]
+(General Tools) Compute CMS on Feature Server
+Writing to: renjith_1
+(GeneralTools) Writing [renjith_1] begin:0 length:496
+(SegTools) >> Proceeding label file reading for [renjith_2] <<
+(SegTools) Default label file for [renjith_2], nb features[496]
+NormFeat file normalisation[renjith_2]
+(General Tools) Compute CMS on Feature Server
+Writing to: renjith_2
+(GeneralTools) Writing [renjith_2] begin:0 length:496
+(SegTools) >> Proceeding label file reading for [renjith_3] <<
+(SegTools) Default label file for [renjith_3], nb features[496]
+NormFeat file normalisation[renjith_3]
+(General Tools) Compute CMS on Feature Server
+Writing to: renjith_3
+(GeneralTools) Writing [renjith_3] begin:0 length:496
+1+(0.0)11111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111-(4.98)
+1+(0.0)11111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111-(4.98)
+1+(0.0)11111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111-(4.98)
+NormFeatFile Mode- Normalisation by file by file
+var and mean normalisation
+(SegTools) Default label file for [renjith_1], nb features[496]
+NormFeat file normalisation[renjith_1]
+(General Tools) Compute CMS on Feature Server
+Writing to: renjith_1
+(GeneralTools) Writing [renjith_1] begin:0 length:496
+(SegTools) Default label file for [renjith_2], nb features[496]
+NormFeat file normalisation[renjith_2]
+(General Tools) Compute CMS on Feature Server
+Writing to: renjith_2
+(GeneralTools) Writing [renjith_2] begin:0 length:496
+(SegTools) Default label file for [renjith_3], nb features[496]
+NormFeat file normalisation[renjith_3]
+(General Tools) Compute CMS on Feature Server
+Writing to: renjith_3
+(GeneralTools) Writing [renjith_3] begin:0 length:496
+Proceeding Energy based silence detection for [renjith_1]
+(SegTools) Default label file for [renjith_1], nb features[496]
+ total variance flooring = 0 ceiling = 0
+Partial Train it[-1] (-1 means initial partial it) LLK=-900.093 Nb Frames=496
+ total variance flooring = 0 ceiling = 0
+Partial Train it[0] (-1 means initial partial it) LLK=-694.938 Nb Frames=496
+ total variance flooring = 0 ceiling = 0
+Partial Train it[1] (-1 means initial partial it) LLK=-694.094 Nb Frames=496
+ total variance flooring = 0 ceiling = 0
+Partial Train it[2] (-1 means initial partial it) LLK=-693.627 Nb Frames=496
+ total variance flooring = 0 ceiling = 0
+Partial Train it[3] (-1 means initial partial it) LLK=-693.197 Nb Frames=496
+ total variance flooring = 0 ceiling = 0
+Partial Train it[4] (-1 means initial partial it) LLK=-692.769 Nb Frames=496
+ total variance flooring = 0 ceiling = 0
+Partial Train it[5] (-1 means initial partial it) LLK=-692.337 Nb Frames=496
+ total variance flooring = 0 ceiling = 0
+Partial Train it[6] (-1 means initial partial it) LLK=-691.901 Nb Frames=496
+Highest component[2] Mean[1.08453] Cov[0.213532] Weight[0.221375]
+File [renjith_1]	Number of initial frames [496]	Number of selected frames [232]	percentage selected [46]
+[ Exception 0x8ae2380 ]
+  message   = "Can't create label file"
+  source file = SegTools.cpp
+  line number = 110
+--help                   Show this help
+--version                Show version information
+--config                 default config filename <STRING>
+--inputFeatureFilename   input feature - could be a simple feature file or a list of filename <STRING>
+--labelFilesPath         path of input and output labels <STRING>
+--saveLabelFileExtension output labelFile extension <STRING>
+--labelOutputFrames      output label tag <STRING>
+--alpha                  threshold giving the percentage of data of the middle Gaussian to take into account <FLOAT>
+--segmentalMode          file to have a file by file behaviour <STRING>
+--thresholdMode          this parameter must be set to select 3 top gaussian. It's a default parameter <STRING>
+
+NormFeatFile Mode- Normalisation by file by file
+var and mean normalisation
+(SegTools) >> Proceeding label file reading for [renjith_1] <<
+(SegTools) Default label file for [renjith_1], nb features[496]
+NormFeat file normalisation[renjith_1]
+(General Tools) Compute CMS on Feature Server
+Writing to: renjith_1
+(GeneralTools) Writing [renjith_1] begin:0 length:496
+(SegTools) >> Proceeding label file reading for [renjith_2] <<
+(SegTools) Default label file for [renjith_2], nb features[496]
+NormFeat file normalisation[renjith_2]
+(General Tools) Compute CMS on Feature Server
+Writing to: renjith_2
+(GeneralTools) Writing [renjith_2] begin:0 length:496
+(SegTools) >> Proceeding label file reading for [renjith_3] <<
+(SegTools) Default label file for [renjith_3], nb features[496]
+NormFeat file normalisation[renjith_3]
+(General Tools) Compute CMS on Feature Server
+Writing to: renjith_3
+(GeneralTools) Writing [renjith_3] begin:0 length:496
+1+(0.0)11111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111-(4.98)
+1+(0.0)11111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111-(4.98)
+1+(0.0)11111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111-(4.98)
+NormFeatFile Mode- Normalisation by file by file
+var and mean normalisation
+(SegTools) Default label file for [renjith_1], nb features[496]
+NormFeat file normalisation[renjith_1]
+(General Tools) Compute CMS on Feature Server
+Writing to: renjith_1
+(GeneralTools) Writing [renjith_1] begin:0 length:496
+(SegTools) Default label file for [renjith_2], nb features[496]
+NormFeat file normalisation[renjith_2]
+(General Tools) Compute CMS on Feature Server
+Writing to: renjith_2
+(GeneralTools) Writing [renjith_2] begin:0 length:496
+(SegTools) Default label file for [renjith_3], nb features[496]
+NormFeat file normalisation[renjith_3]
+(General Tools) Compute CMS on Feature Server
+Writing to: renjith_3
+(GeneralTools) Writing [renjith_3] begin:0 length:496
+Proceeding Energy based silence detection for [renjith_1]
+(SegTools) Default label file for [renjith_1], nb features[496]
+ total variance flooring = 0 ceiling = 0
+Partial Train it[-1] (-1 means initial partial it) LLK=-900.093 Nb Frames=496
+ total variance flooring = 0 ceiling = 0
+Partial Train it[0] (-1 means initial partial it) LLK=-694.938 Nb Frames=496
+ total variance flooring = 0 ceiling = 0
+Partial Train it[1] (-1 means initial partial it) LLK=-694.094 Nb Frames=496
+ total variance flooring = 0 ceiling = 0
+Partial Train it[2] (-1 means initial partial it) LLK=-693.627 Nb Frames=496
+ total variance flooring = 0 ceiling = 0
+Partial Train it[3] (-1 means initial partial it) LLK=-693.197 Nb Frames=496
+ total variance flooring = 0 ceiling = 0
+Partial Train it[4] (-1 means initial partial it) LLK=-692.769 Nb Frames=496
+ total variance flooring = 0 ceiling = 0
+Partial Train it[5] (-1 means initial partial it) LLK=-692.337 Nb Frames=496
+ total variance flooring = 0 ceiling = 0
+Partial Train it[6] (-1 means initial partial it) LLK=-691.901 Nb Frames=496
+Highest component[2] Mean[1.08453] Cov[0.213532] Weight[0.221375]
+File [renjith_1]	Number of initial frames [496]	Number of selected frames [232]	percentage selected [46]
+[ Exception 0x92a9380 ]
+  message   = "Can't create label file"
+  source file = SegTools.cpp
+  line number = 110
+--help                   Show this help
+--version                Show version information
+--config                 default config filename <STRING>
+--inputFeatureFilename   input feature - could be a simple feature file or a list of filename <STRING>
+--labelFilesPath         path of input and output labels <STRING>
+--saveLabelFileExtension output labelFile extension <STRING>
+--labelOutputFrames      output label tag <STRING>
+--alpha                  threshold giving the percentage of data of the middle Gaussian to take into account <FLOAT>
+--segmentalMode          file to have a file by file behaviour <STRING>
+--thresholdMode          this parameter must be set to select 3 top gaussian. It's a default parameter <STRING>
+
+NormFeatFile Mode- Normalisation by file by file
+var and mean normalisation
+(SegTools) >> Proceeding label file reading for [renjith_1] <<
+(SegTools) Default label file for [renjith_1], nb features[496]
+NormFeat file normalisation[renjith_1]
+(General Tools) Compute CMS on Feature Server
+Writing to: renjith_1
+(GeneralTools) Writing [renjith_1] begin:0 length:496
+(SegTools) >> Proceeding label file reading for [renjith_2] <<
+(SegTools) Default label file for [renjith_2], nb features[496]
+NormFeat file normalisation[renjith_2]
+(General Tools) Compute CMS on Feature Server
+Writing to: renjith_2
+(GeneralTools) Writing [renjith_2] begin:0 length:496
+(SegTools) >> Proceeding label file reading for [renjith_3] <<
+(SegTools) Default label file for [renjith_3], nb features[496]
+NormFeat file normalisation[renjith_3]
+(General Tools) Compute CMS on Feature Server
+Writing to: renjith_3
+(GeneralTools) Writing [renjith_3] begin:0 length:496
+1+(0.0)11111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111-(4.98)
+1+(0.0)11111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111-(4.98)
+1+(0.0)11111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111-(4.98)
+1+(0.0)11111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111-(4.98)
+1+(0.0)11111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111-(4.98)
+1+(0.0)11111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111-(4.98)
+1+(0.0)11111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111-(4.98)
+1+(0.0)11111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111-(4.98)
+1+(0.0)11111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111-(4.98)
+1+(0.0)11111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111-(4.98)
+1+(0.0)11111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111-(4.98)
+1+(0.0)11111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111-(4.98)
+1+(0.0)11111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111-(4.98)
+1+(0.0)11111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111-(4.98)
+1+(0.0)11111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111-(4.98)
+1+(0.0)11111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111-(4.98)
+1+(0.0)11111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111-(4.98)
+1+(0.0)11111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111-(4.98)
+1+(0.0)11111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111-(4.98)
+1+(0.0)11111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111-(4.98)
+1+(0.0)11111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111-(4.98)
+NormFeatFile Mode- Normalisation by file by file
+var and mean normalisation
+[ FileNotFoundException 0x95060d0 ]
+  message   = ""
+  source file = FileReader.cpp
+  line number = 101
+  fileName =  data/testwav/Test_2075.lst
+--help                   Show this help
+--version                Show version information
+--config                 default config filename <STRING>
+--mode                   <norm: mean, var, warp normalization | info: save stats of file | featmap: feature mapping | FA EigenChannel Compensation > <STRING>
+--inputFeatureFilename   input feature - could be a simple feature file or a list of filename <STRING>
+--labelSelectedFrames    Only the frames from segments with this label  will be used <STRING>
+--fileMode               One normalisation for all the selected data, could be applied after segmental/window modes if both are selected <BOOLEAN>
+--segmentalMode          if set to true, one normalisation by segment is computed <BOOLEAN>
+--windowMode             if set to true, the normalisation is computed by windows <BOOLEAN>
+--windowDuration         Length of the window (for window mode) in seconds (default=5) <FLOAT>
+--windowComp             compensation factor for window mode (default =1.0 - no compensation <FLOAT>
+--writeAllFeatures       if set to true,values for all the input frames are outputed (default true) <BOOLEAN>
+--featureServerMode      FEATURE_WRITABLE to write normalized features <STRING>
+--outputInfoFilename     The complete output filename for the info file <STRING>
+--cmsOnly                If cmsOnly is set, only remove means from features (default false) <BOOLEAN>
+--varOnly                If cmsOnly is set, reduce only variance from features (default false) <BOOLEAN>
+--warp                   If warp is set, uses featureWarping (default false) <BOOLEAN>
+--warpBinCount           If warp is set, this parameter fixes the number of bins in the data histo (default=40) <INTEGER>
+--warpGaussHistoFilename for warping, if this parameter is set, it loads the destination histo, default it creates it (N(0,1)) <STRING>
+--warpAdd01Norm          for warping, add a global N(0,1) normalisation after warping (default false) <BOOLEAN>
+--externalStatsFilename  filename containing external stats to apply for normalization, usually obtained with info mode (opt.) <STRING>
+--frameLength            length of a frame, by default 10ms <FLOAT>
+
+Proceeding Energy based silence detection for [data/testwav/Test_2075.lst]
+[ FileNotFoundException 0x83641b0 ]
+  message   = ""
+  source file = FileReader.cpp
+  line number = 101
+  fileName =  data/testwav/Test_2075.lst
+--help                   Show this help
+--version                Show version information
+--config                 default config filename <STRING>
+--inputFeatureFilename   input feature - could be a simple feature file or a list of filename <STRING>
+--labelFilesPath         path of input and output labels <STRING>
+--saveLabelFileExtension output labelFile extension <STRING>
+--labelOutputFrames      output label tag <STRING>
+--alpha                  threshold giving the percentage of data of the middle Gaussian to take into account <FLOAT>
+--segmentalMode          file to have a file by file behaviour <STRING>
+--thresholdMode          this parameter must be set to select 3 top gaussian. It's a default parameter <STRING>
+
+NormFeatFile Mode- Normalisation by file by file
+var and mean normalisation
+[ FileNotFoundException 0x952a120 ]
+  message   = ""
+  source file = FileReader.cpp
+  line number = 101
+  fileName =  data/testwav/Test_2075.lst
+--help                   Show this help
+--version                Show version information
+--config                 default config filename <STRING>
+--mode                   <norm: mean, var, warp normalization | info: save stats of file | featmap: feature mapping | FA EigenChannel Compensation > <STRING>
+--inputFeatureFilename   input feature - could be a simple feature file or a list of filename <STRING>
+--labelSelectedFrames    Only the frames from segments with this label  will be used <STRING>
+--fileMode               One normalisation for all the selected data, could be applied after segmental/window modes if both are selected <BOOLEAN>
+--segmentalMode          if set to true, one normalisation by segment is computed <BOOLEAN>
+--windowMode             if set to true, the normalisation is computed by windows <BOOLEAN>
+--windowDuration         Length of the window (for window mode) in seconds (default=5) <FLOAT>
+--windowComp             compensation factor for window mode (default =1.0 - no compensation <FLOAT>
+--writeAllFeatures       if set to true,values for all the input frames are outputed (default true) <BOOLEAN>
+--featureServerMode      FEATURE_WRITABLE to write normalized features <STRING>
+--outputInfoFilename     The complete output filename for the info file <STRING>
+--cmsOnly                If cmsOnly is set, only remove means from features (default false) <BOOLEAN>
+--varOnly                If cmsOnly is set, reduce only variance from features (default false) <BOOLEAN>
+--warp                   If warp is set, uses featureWarping (default false) <BOOLEAN>
+--warpBinCount           If warp is set, this parameter fixes the number of bins in the data histo (default=40) <INTEGER>
+--warpGaussHistoFilename for warping, if this parameter is set, it loads the destination histo, default it creates it (N(0,1)) <STRING>
+--warpAdd01Norm          for warping, add a global N(0,1) normalisation after warping (default false) <BOOLEAN>
+--externalStatsFilename  filename containing external stats to apply for normalization, usually obtained with info mode (opt.) <STRING>
+--frameLength            length of a frame, by default 10ms <FLOAT>
+
+[ FileNotFoundException 0x9f237d0 ]
+  message   = ""
+  source file = FileReader.cpp
+  line number = 101
+  fileName =  cfg/test_wav/Test_2075.cfg
+--help    Show this help
+--version Show version information
+
+NormFeatFile Mode- Normalisation by file by file
+var and mean normalisation
+[ FileNotFoundException 0x9f460d0 ]
+  message   = ""
+  source file = FileReader.cpp
+  line number = 101
+  fileName =  data/testwav/Test_2075.lst
+--help                   Show this help
+--version                Show version information
+--config                 default config filename <STRING>
+--mode                   <norm: mean, var, warp normalization | info: save stats of file | featmap: feature mapping | FA EigenChannel Compensation > <STRING>
+--inputFeatureFilename   input feature - could be a simple feature file or a list of filename <STRING>
+--labelSelectedFrames    Only the frames from segments with this label  will be used <STRING>
+--fileMode               One normalisation for all the selected data, could be applied after segmental/window modes if both are selected <BOOLEAN>
+--segmentalMode          if set to true, one normalisation by segment is computed <BOOLEAN>
+--windowMode             if set to true, the normalisation is computed by windows <BOOLEAN>
+--windowDuration         Length of the window (for window mode) in seconds (default=5) <FLOAT>
+--windowComp             compensation factor for window mode (default =1.0 - no compensation <FLOAT>
+--writeAllFeatures       if set to true,values for all the input frames are outputed (default true) <BOOLEAN>
+--featureServerMode      FEATURE_WRITABLE to write normalized features <STRING>
+--outputInfoFilename     The complete output filename for the info file <STRING>
+--cmsOnly                If cmsOnly is set, only remove means from features (default false) <BOOLEAN>
+--varOnly                If cmsOnly is set, reduce only variance from features (default false) <BOOLEAN>
+--warp                   If warp is set, uses featureWarping (default false) <BOOLEAN>
+--warpBinCount           If warp is set, this parameter fixes the number of bins in the data histo (default=40) <INTEGER>
+--warpGaussHistoFilename for warping, if this parameter is set, it loads the destination histo, default it creates it (N(0,1)) <STRING>
+--warpAdd01Norm          for warping, add a global N(0,1) normalisation after warping (default false) <BOOLEAN>
+--externalStatsFilename  filename containing external stats to apply for normalization, usually obtained with info mode (opt.) <STRING>
+--frameLength            length of a frame, by default 10ms <FLOAT>
+
+Proceeding Energy based silence detection for [data/testwav/Test_2075.lst]
+[ FileNotFoundException 0x852e1b0 ]
+  message   = ""
+  source file = FileReader.cpp
+  line number = 101
+  fileName =  data/testwav/Test_2075.lst
+--help                   Show this help
+--version                Show version information
+--config                 default config filename <STRING>
+--inputFeatureFilename   input feature - could be a simple feature file or a list of filename <STRING>
+--labelFilesPath         path of input and output labels <STRING>
+--saveLabelFileExtension output labelFile extension <STRING>
+--labelOutputFrames      output label tag <STRING>
+--alpha                  threshold giving the percentage of data of the middle Gaussian to take into account <FLOAT>
+--segmentalMode          file to have a file by file behaviour <STRING>
+--thresholdMode          this parameter must be set to select 3 top gaussian. It's a default parameter <STRING>
+
+NormFeatFile Mode- Normalisation by file by file
+var and mean normalisation
+[ FileNotFoundException 0x899a120 ]
+  message   = ""
+  source file = FileReader.cpp
+  line number = 101
+  fileName =  data/testwav/Test_2075.lst
+--help                   Show this help
+--version                Show version information
+--config                 default config filename <STRING>
+--mode                   <norm: mean, var, warp normalization | info: save stats of file | featmap: feature mapping | FA EigenChannel Compensation > <STRING>
+--inputFeatureFilename   input feature - could be a simple feature file or a list of filename <STRING>
+--labelSelectedFrames    Only the frames from segments with this label  will be used <STRING>
+--fileMode               One normalisation for all the selected data, could be applied after segmental/window modes if both are selected <BOOLEAN>
+--segmentalMode          if set to true, one normalisation by segment is computed <BOOLEAN>
+--windowMode             if set to true, the normalisation is computed by windows <BOOLEAN>
+--windowDuration         Length of the window (for window mode) in seconds (default=5) <FLOAT>
+--windowComp             compensation factor for window mode (default =1.0 - no compensation <FLOAT>
+--writeAllFeatures       if set to true,values for all the input frames are outputed (default true) <BOOLEAN>
+--featureServerMode      FEATURE_WRITABLE to write normalized features <STRING>
+--outputInfoFilename     The complete output filename for the info file <STRING>
+--cmsOnly                If cmsOnly is set, only remove means from features (default false) <BOOLEAN>
+--varOnly                If cmsOnly is set, reduce only variance from features (default false) <BOOLEAN>
+--warp                   If warp is set, uses featureWarping (default false) <BOOLEAN>
+--warpBinCount           If warp is set, this parameter fixes the number of bins in the data histo (default=40) <INTEGER>
+--warpGaussHistoFilename for warping, if this parameter is set, it loads the destination histo, default it creates it (N(0,1)) <STRING>
+--warpAdd01Norm          for warping, add a global N(0,1) normalisation after warping (default false) <BOOLEAN>
+--externalStatsFilename  filename containing external stats to apply for normalization, usually obtained with info mode (opt.) <STRING>
+--frameLength            length of a frame, by default 10ms <FLOAT>
+
+[ FileNotFoundException 0x984e7d0 ]
+  message   = ""
+  source file = FileReader.cpp
+  line number = 101
+  fileName =  cfg/test_wav/Test_2075.cfg
+--help    Show this help
+--version Show version information
+
+NormFeatFile Mode- Normalisation by file by file
+var and mean normalisation
+[ FileNotFoundException 0x8fb10d0 ]
+  message   = ""
+  source file = FileReader.cpp
+  line number = 101
+  fileName =  data/testwav/Test_2075.lst
+--help                   Show this help
+--version                Show version information
+--config                 default config filename <STRING>
+--mode                   <norm: mean, var, warp normalization | info: save stats of file | featmap: feature mapping | FA EigenChannel Compensation > <STRING>
+--inputFeatureFilename   input feature - could be a simple feature file or a list of filename <STRING>
+--labelSelectedFrames    Only the frames from segments with this label  will be used <STRING>
+--fileMode               One normalisation for all the selected data, could be applied after segmental/window modes if both are selected <BOOLEAN>
+--segmentalMode          if set to true, one normalisation by segment is computed <BOOLEAN>
+--windowMode             if set to true, the normalisation is computed by windows <BOOLEAN>
+--windowDuration         Length of the window (for window mode) in seconds (default=5) <FLOAT>
+--windowComp             compensation factor for window mode (default =1.0 - no compensation <FLOAT>
+--writeAllFeatures       if set to true,values for all the input frames are outputed (default true) <BOOLEAN>
+--featureServerMode      FEATURE_WRITABLE to write normalized features <STRING>
+--outputInfoFilename     The complete output filename for the info file <STRING>
+--cmsOnly                If cmsOnly is set, only remove means from features (default false) <BOOLEAN>
+--varOnly                If cmsOnly is set, reduce only variance from features (default false) <BOOLEAN>
+--warp                   If warp is set, uses featureWarping (default false) <BOOLEAN>
+--warpBinCount           If warp is set, this parameter fixes the number of bins in the data histo (default=40) <INTEGER>
+--warpGaussHistoFilename for warping, if this parameter is set, it loads the destination histo, default it creates it (N(0,1)) <STRING>
+--warpAdd01Norm          for warping, add a global N(0,1) normalisation after warping (default false) <BOOLEAN>
+--externalStatsFilename  filename containing external stats to apply for normalization, usually obtained with info mode (opt.) <STRING>
+--frameLength            length of a frame, by default 10ms <FLOAT>
+
+Proceeding Energy based silence detection for [data/testwav/Test_2075.lst]
+[ FileNotFoundException 0x9f711b0 ]
+  message   = ""
+  source file = FileReader.cpp
+  line number = 101
+  fileName =  data/testwav/Test_2075.lst
+--help                   Show this help
+--version                Show version information
+--config                 default config filename <STRING>
+--inputFeatureFilename   input feature - could be a simple feature file or a list of filename <STRING>
+--labelFilesPath         path of input and output labels <STRING>
+--saveLabelFileExtension output labelFile extension <STRING>
+--labelOutputFrames      output label tag <STRING>
+--alpha                  threshold giving the percentage of data of the middle Gaussian to take into account <FLOAT>
+--segmentalMode          file to have a file by file behaviour <STRING>
+--thresholdMode          this parameter must be set to select 3 top gaussian. It's a default parameter <STRING>
+
+NormFeatFile Mode- Normalisation by file by file
+var and mean normalisation
+[ FileNotFoundException 0x8960120 ]
+  message   = ""
+  source file = FileReader.cpp
+  line number = 101
+  fileName =  data/testwav/Test_2075.lst
+--help                   Show this help
+--version                Show version information
+--config                 default config filename <STRING>
+--mode                   <norm: mean, var, warp normalization | info: save stats of file | featmap: feature mapping | FA EigenChannel Compensation > <STRING>
+--inputFeatureFilename   input feature - could be a simple feature file or a list of filename <STRING>
+--labelSelectedFrames    Only the frames from segments with this label  will be used <STRING>
+--fileMode               One normalisation for all the selected data, could be applied after segmental/window modes if both are selected <BOOLEAN>
+--segmentalMode          if set to true, one normalisation by segment is computed <BOOLEAN>
+--windowMode             if set to true, the normalisation is computed by windows <BOOLEAN>
+--windowDuration         Length of the window (for window mode) in seconds (default=5) <FLOAT>
+--windowComp             compensation factor for window mode (default =1.0 - no compensation <FLOAT>
+--writeAllFeatures       if set to true,values for all the input frames are outputed (default true) <BOOLEAN>
+--featureServerMode      FEATURE_WRITABLE to write normalized features <STRING>
+--outputInfoFilename     The complete output filename for the info file <STRING>
+--cmsOnly                If cmsOnly is set, only remove means from features (default false) <BOOLEAN>
+--varOnly                If cmsOnly is set, reduce only variance from features (default false) <BOOLEAN>
+--warp                   If warp is set, uses featureWarping (default false) <BOOLEAN>
+--warpBinCount           If warp is set, this parameter fixes the number of bins in the data histo (default=40) <INTEGER>
+--warpGaussHistoFilename for warping, if this parameter is set, it loads the destination histo, default it creates it (N(0,1)) <STRING>
+--warpAdd01Norm          for warping, add a global N(0,1) normalisation after warping (default false) <BOOLEAN>
+--externalStatsFilename  filename containing external stats to apply for normalization, usually obtained with info mode (opt.) <STRING>
+--frameLength            length of a frame, by default 10ms <FLOAT>
+
+[ FileNotFoundException 0x92987d0 ]
+  message   = ""
+  source file = FileReader.cpp
+  line number = 101
+  fileName =  cfg/test_wav/Test_2075.cfg
+--help    Show this help
+--version Show version information
+
+NormFeatFile Mode- Normalisation by file by file
+var and mean normalisation
+[ FileNotFoundException 0x977f0d0 ]
+  message   = ""
+  source file = FileReader.cpp
+  line number = 101
+  fileName =  data/testwav/Test_2075.lst
+--help                   Show this help
+--version                Show version information
+--config                 default config filename <STRING>
+--mode                   <norm: mean, var, warp normalization | info: save stats of file | featmap: feature mapping | FA EigenChannel Compensation > <STRING>
+--inputFeatureFilename   input feature - could be a simple feature file or a list of filename <STRING>
+--labelSelectedFrames    Only the frames from segments with this label  will be used <STRING>
+--fileMode               One normalisation for all the selected data, could be applied after segmental/window modes if both are selected <BOOLEAN>
+--segmentalMode          if set to true, one normalisation by segment is computed <BOOLEAN>
+--windowMode             if set to true, the normalisation is computed by windows <BOOLEAN>
+--windowDuration         Length of the window (for window mode) in seconds (default=5) <FLOAT>
+--windowComp             compensation factor for window mode (default =1.0 - no compensation <FLOAT>
+--writeAllFeatures       if set to true,values for all the input frames are outputed (default true) <BOOLEAN>
+--featureServerMode      FEATURE_WRITABLE to write normalized features <STRING>
+--outputInfoFilename     The complete output filename for the info file <STRING>
+--cmsOnly                If cmsOnly is set, only remove means from features (default false) <BOOLEAN>
+--varOnly                If cmsOnly is set, reduce only variance from features (default false) <BOOLEAN>
+--warp                   If warp is set, uses featureWarping (default false) <BOOLEAN>
+--warpBinCount           If warp is set, this parameter fixes the number of bins in the data histo (default=40) <INTEGER>
+--warpGaussHistoFilename for warping, if this parameter is set, it loads the destination histo, default it creates it (N(0,1)) <STRING>
+--warpAdd01Norm          for warping, add a global N(0,1) normalisation after warping (default false) <BOOLEAN>
+--externalStatsFilename  filename containing external stats to apply for normalization, usually obtained with info mode (opt.) <STRING>
+--frameLength            length of a frame, by default 10ms <FLOAT>
+
+Proceeding Energy based silence detection for [data/testwav/Test_2075.lst]
+[ FileNotFoundException 0x84421b0 ]
+  message   = ""
+  source file = FileReader.cpp
+  line number = 101
+  fileName =  data/testwav/Test_2075.lst
+--help                   Show this help
+--version                Show version information
+--config                 default config filename <STRING>
+--inputFeatureFilename   input feature - could be a simple feature file or a list of filename <STRING>
+--labelFilesPath         path of input and output labels <STRING>
+--saveLabelFileExtension output labelFile extension <STRING>
+--labelOutputFrames      output label tag <STRING>
+--alpha                  threshold giving the percentage of data of the middle Gaussian to take into account <FLOAT>
+--segmentalMode          file to have a file by file behaviour <STRING>
+--thresholdMode          this parameter must be set to select 3 top gaussian. It's a default parameter <STRING>
+
+NormFeatFile Mode- Normalisation by file by file
+var and mean normalisation
+[ FileNotFoundException 0x9732120 ]
+  message   = ""
+  source file = FileReader.cpp
+  line number = 101
+  fileName =  data/testwav/Test_2075.lst
+--help                   Show this help
+--version                Show version information
+--config                 default config filename <STRING>
+--mode                   <norm: mean, var, warp normalization | info: save stats of file | featmap: feature mapping | FA EigenChannel Compensation > <STRING>
+--inputFeatureFilename   input feature - could be a simple feature file or a list of filename <STRING>
+--labelSelectedFrames    Only the frames from segments with this label  will be used <STRING>
+--fileMode               One normalisation for all the selected data, could be applied after segmental/window modes if both are selected <BOOLEAN>
+--segmentalMode          if set to true, one normalisation by segment is computed <BOOLEAN>
+--windowMode             if set to true, the normalisation is computed by windows <BOOLEAN>
+--windowDuration         Length of the window (for window mode) in seconds (default=5) <FLOAT>
+--windowComp             compensation factor for window mode (default =1.0 - no compensation <FLOAT>
+--writeAllFeatures       if set to true,values for all the input frames are outputed (default true) <BOOLEAN>
+--featureServerMode      FEATURE_WRITABLE to write normalized features <STRING>
+--outputInfoFilename     The complete output filename for the info file <STRING>
+--cmsOnly                If cmsOnly is set, only remove means from features (default false) <BOOLEAN>
+--varOnly                If cmsOnly is set, reduce only variance from features (default false) <BOOLEAN>
+--warp                   If warp is set, uses featureWarping (default false) <BOOLEAN>
+--warpBinCount           If warp is set, this parameter fixes the number of bins in the data histo (default=40) <INTEGER>
+--warpGaussHistoFilename for warping, if this parameter is set, it loads the destination histo, default it creates it (N(0,1)) <STRING>
+--warpAdd01Norm          for warping, add a global N(0,1) normalisation after warping (default false) <BOOLEAN>
+--externalStatsFilename  filename containing external stats to apply for normalization, usually obtained with info mode (opt.) <STRING>
+--frameLength            length of a frame, by default 10ms <FLOAT>
+
+[ FileNotFoundException 0x985b7d0 ]
+  message   = ""
+  source file = FileReader.cpp
+  line number = 101
+  fileName =  cfg/test_wav/Test_2075.cfg
+--help    Show this help
+--version Show version information
+
+NormFeatFile Mode- Normalisation by file by file
+var and mean normalisation
+[ FileNotFoundException 0x89620d0 ]
+  message   = ""
+  source file = FileReader.cpp
+  line number = 101
+  fileName =  data/prm/Test_2075.mfc
+Proceeding Energy based silence detection for [Test_2075]
+[ FileNotFoundException 0x8ab01b0 ]
+  message   = ""
+  source file = FileReader.cpp
+  line number = 101
+  fileName =  data/prm/Test_2075.enr.tmp.prm
+--help                   Show this help
+--version                Show version information
+--config                 default config filename <STRING>
+--inputFeatureFilename   input feature - could be a simple feature file or a list of filename <STRING>
+--labelFilesPath         path of input and output labels <STRING>
+--saveLabelFileExtension output labelFile extension <STRING>
+--labelOutputFrames      output label tag <STRING>
+--alpha                  threshold giving the percentage of data of the middle Gaussian to take into account <FLOAT>
+--segmentalMode          file to have a file by file behaviour <STRING>
+--thresholdMode          this parameter must be set to select 3 top gaussian. It's a default parameter <STRING>
+
+NormFeatFile Mode- Normalisation by file by file
+var and mean normalisation
+[ FileNotFoundException 0x9f1d120 ]
+  message   = ""
+  source file = FileReader.cpp
+  line number = 101
+  fileName =  data/prm/Test_2075.mfc
+(ComputeTest) No Channel Compensation
+Compute Test, Decime mode[1] File Mode- 1 LLR by file
+[ FileNotFoundException 0x8ec7430 ]
+  message   = ""
+  source file = FileReader.cpp
+  line number = 101
+  fileName =  data/prm/Test_2075.norm.prm
+NormFeatFile Mode- Normalisation by file by file
+var and mean normalisation
+[ FileNotFoundException 0x8caf0d0 ]
+  message   = ""
+  source file = FileReader.cpp
+  line number = 101
+  fileName =  data/prm/Test_2075.mfc
+Proceeding Energy based silence detection for [Test_2075]
+[ FileNotFoundException 0x83e01b0 ]
+  message   = ""
+  source file = FileReader.cpp
+  line number = 101
+  fileName =  data/prm/Test_2075.enr.tmp.prm
+--help                   Show this help
+--version                Show version information
+--config                 default config filename <STRING>
+--inputFeatureFilename   input feature - could be a simple feature file or a list of filename <STRING>
+--labelFilesPath         path of input and output labels <STRING>
+--saveLabelFileExtension output labelFile extension <STRING>
+--labelOutputFrames      output label tag <STRING>
+--alpha                  threshold giving the percentage of data of the middle Gaussian to take into account <FLOAT>
+--segmentalMode          file to have a file by file behaviour <STRING>
+--thresholdMode          this parameter must be set to select 3 top gaussian. It's a default parameter <STRING>
+
+NormFeatFile Mode- Normalisation by file by file
+var and mean normalisation
+[ FileNotFoundException 0x9a68120 ]
+  message   = ""
+  source file = FileReader.cpp
+  line number = 101
+  fileName =  data/prm/Test_2075.mfc
+(ComputeTest) No Channel Compensation
+Compute Test, Decime mode[1] File Mode- 1 LLR by file
+[ FileNotFoundException 0x860d430 ]
+  message   = ""
+  source file = FileReader.cpp
+  line number = 101
+  fileName =  data/prm/Test_2075.norm.prm
+NormFeatFile Mode- Normalisation by file by file
+var and mean normalisation
+[ FileNotFoundException 0x81f50d0 ]
+  message   = ""
+  source file = FileReader.cpp
+  line number = 101
+  fileName =  data/prm/Test_2075.mfc
+Proceeding Energy based silence detection for [Test_2075]
+[ FileNotFoundException 0x8d6f1b0 ]
+  message   = ""
+  source file = FileReader.cpp
+  line number = 101
+  fileName =  data/prm/Test_2075.enr.tmp.prm
+--help                   Show this help
+--version                Show version information
+--config                 default config filename <STRING>
+--inputFeatureFilename   input feature - could be a simple feature file or a list of filename <STRING>
+--labelFilesPath         path of input and output labels <STRING>
+--saveLabelFileExtension output labelFile extension <STRING>
+--labelOutputFrames      output label tag <STRING>
+--alpha                  threshold giving the percentage of data of the middle Gaussian to take into account <FLOAT>
+--segmentalMode          file to have a file by file behaviour <STRING>
+--thresholdMode          this parameter must be set to select 3 top gaussian. It's a default parameter <STRING>
+
+NormFeatFile Mode- Normalisation by file by file
+var and mean normalisation
+[ FileNotFoundException 0x87f6120 ]
+  message   = ""
+  source file = FileReader.cpp
+  line number = 101
+  fileName =  data/prm/Test_2075.mfc
+(ComputeTest) No Channel Compensation
+Compute Test, Decime mode[1] File Mode- 1 LLR by file
+[ FileNotFoundException 0xa003430 ]
+  message   = ""
+  source file = FileReader.cpp
+  line number = 101
+  fileName =  data/prm/Test_2075.norm.prm
+1+(0.0)11111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111-(4.98)
+NormFeatFile Mode- Normalisation by file by file
+var and mean normalisation
+(SegTools) Default label file for [Test_2075], nb features[496]
+NormFeat file normalisation[Test_2075]
+(General Tools) Compute CMS on Feature Server
+Writing to: Test_2075
+(GeneralTools) Writing [Test_2075] begin:0 length:496
+Proceeding Energy based silence detection for [Test_2075]
+(SegTools) Default label file for [Test_2075], nb features[496]
+ total variance flooring = 0 ceiling = 0
+Partial Train it[-1] (-1 means initial partial it) LLK=-900.093 Nb Frames=496
+ total variance flooring = 0 ceiling = 0
+Partial Train it[0] (-1 means initial partial it) LLK=-694.938 Nb Frames=496
+ total variance flooring = 0 ceiling = 0
+Partial Train it[1] (-1 means initial partial it) LLK=-694.094 Nb Frames=496
+ total variance flooring = 0 ceiling = 0
+Partial Train it[2] (-1 means initial partial it) LLK=-693.627 Nb Frames=496
+ total variance flooring = 0 ceiling = 0
+Partial Train it[3] (-1 means initial partial it) LLK=-693.197 Nb Frames=496
+ total variance flooring = 0 ceiling = 0
+Partial Train it[4] (-1 means initial partial it) LLK=-692.769 Nb Frames=496
+ total variance flooring = 0 ceiling = 0
+Partial Train it[5] (-1 means initial partial it) LLK=-692.337 Nb Frames=496
+ total variance flooring = 0 ceiling = 0
+Partial Train it[6] (-1 means initial partial it) LLK=-691.901 Nb Frames=496
+Highest component[2] Mean[1.08453] Cov[0.213532] Weight[0.221375]
+File [Test_2075]	Number of initial frames [496]	Number of selected frames [232]	percentage selected [46]
+NormFeatFile Mode- Normalisation by file by file
+var and mean normalisation
+(SegTools) >> Proceeding label file reading for [Test_2075] <<
+Warning File[Test_2075], Truncate Segment begin:495 length:2 file size:496 new length:1
+NormFeat file normalisation[Test_2075]
+(General Tools) Compute CMS on Feature Server
+Writing to: Test_2075
+(GeneralTools) Writing [Test_2075] begin:0 length:496
+(ComputeTest) No Channel Compensation
+Compute Test, Decime mode[1] File Mode- 1 LLR by file
+Warning File[Test_2075], Truncate Segment begin:495 length:2 file size:496 new length:1
+test seg[Test_2075]
+Warning File[Test_2075], Truncate Segment begin:495 length:2 file size:496 new length:1
+test seg[Test_2075]
+Warning File[Test_2075], Truncate Segment begin:495 length:2 file size:496 new length:1
+test seg[Test_2075]
+Warning File[Test_2075], Truncate Segment begin:495 length:2 file size:496 new length:1
+test seg[Test_2075]
+Warning File[Test_2075], Truncate Segment begin:495 length:2 file size:496 new length:1
+test seg[Test_2075]
+Warning File[Test_2075], Truncate Segment begin:495 length:2 file size:496 new length:1
+test seg[Test_2075]
+Warning File[Test_2075], Truncate Segment begin:495 length:2 file size:496 new length:1
+test seg[Test_2075]
+Warning File[Test_2075], Truncate Segment begin:495 length:2 file size:496 new length:1
+test seg[Test_2075]
+Warning File[Test_2075], Truncate Segment begin:495 length:2 file size:496 new length:1
+test seg[Test_2075]
+Warning File[Test_2075], Truncate Segment begin:495 length:2 file size:496 new length:1
+test seg[Test_2075]
+0001+(0.06)1111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111-(2.08)1+(2.08)11111111111111111111111111111111111111111111-(2.98)0001+(3.04)11111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111-(5.2)01+(5.22)111111111-(5.42)1+(5.42)11111111111111111111-(5.84)1+(5.84)11111-(5.96)1+(5.96)1111111-(6.12)1+(6.12)1101111111111111111110-(6.58)01+(6.6)11111111111111111111111111-(7.14)01+(7.16)11-(7.22)0001+(7.28)1110-(7.38)01+(7.4)11-(7.46)001+(7.5)1111-(7.6)01+(7.62)111111111111111-(7.94)001+(7.98)11111111111111111111111111111111111111111111-(8.88)1+(8.88)1111111111011111111111111111111111111110-(9.7)001+(9.74)111111111-(9.94)00+(9.96)11-(10.02)1+(10.02)110-(10.1)00000001+(10.24)110-(10.32)
+NormFeatFile Mode- Normalisation by file by file
+var and mean normalisation
+(SegTools) Default label file for [Test_2075], nb features[974]
+NormFeat file normalisation[Test_2075]
+(General Tools) Compute CMS on Feature Server
+Writing to: Test_2075
+(GeneralTools) Writing [Test_2075] begin:0 length:974
+Proceeding Energy based silence detection for [Test_2075]
+(SegTools) Default label file for [Test_2075], nb features[974]
+ total variance flooring = 0 ceiling = 0
+Partial Train it[-1] (-1 means initial partial it) LLK=-1764.16 Nb Frames=974
+ total variance flooring = 0 ceiling = 0
+Partial Train it[0] (-1 means initial partial it) LLK=-1280.11 Nb Frames=974
+ total variance flooring = 0 ceiling = 0
+Partial Train it[1] (-1 means initial partial it) LLK=-1246.75 Nb Frames=974
+ total variance flooring = 0 ceiling = 0
+Partial Train it[2] (-1 means initial partial it) LLK=-1231.21 Nb Frames=974
+ total variance flooring = 0 ceiling = 0
+Partial Train it[3] (-1 means initial partial it) LLK=-1222.94 Nb Frames=974
+ total variance flooring = 0 ceiling = 0
+Partial Train it[4] (-1 means initial partial it) LLK=-1217.52 Nb Frames=974
+ total variance flooring = 0 ceiling = 0
+Partial Train it[5] (-1 means initial partial it) LLK=-1213.1 Nb Frames=974
+ total variance flooring = 0 ceiling = 0
+Partial Train it[6] (-1 means initial partial it) LLK=-1209.11 Nb Frames=974
+Highest component[2] Mean[0.967697] Cov[0.0841217] Weight[0.338204]
+File [Test_2075]	Number of initial frames [974]	Number of selected frames [436]	percentage selected [44]
+NormFeatFile Mode- Normalisation by file by file
+var and mean normalisation
+(SegTools) >> Proceeding label file reading for [Test_2075] <<
+NormFeat file normalisation[Test_2075]
+(General Tools) Compute CMS on Feature Server
+Writing to: Test_2075
+(GeneralTools) Writing [Test_2075] begin:0 length:974
+(ComputeTest) No Channel Compensation
+Compute Test, Decime mode[1] File Mode- 1 LLR by file
+test seg[Test_2075]
+test seg[Test_2075]
+test seg[Test_2075]
+test seg[Test_2075]
+test seg[Test_2075]
+test seg[Test_2075]
+test seg[Test_2075]
+test seg[Test_2075]
+test seg[Test_2075]
+test seg[Test_2075]
+NormFeatFile Mode- Normalisation by file by file
+var and mean normalisation
+[ FileNotFoundException 0x9e390b0 ]
+  message   = ""
+  source file = FileReader.cpp
+  line number = 101
+  fileName =  data/prm/Test_4.mfc
+Proceeding Energy based silence detection for [Test_4]
+[ FileNotFoundException 0x88771b0 ]
+  message   = ""
+  source file = FileReader.cpp
+  line number = 101
+  fileName =  data/prm/Test_4.enr.tmp.prm
+--help                   Show this help
+--version                Show version information
+--config                 default config filename <STRING>
+--inputFeatureFilename   input feature - could be a simple feature file or a list of filename <STRING>
+--labelFilesPath         path of input and output labels <STRING>
+--saveLabelFileExtension output labelFile extension <STRING>
+--labelOutputFrames      output label tag <STRING>
+--alpha                  threshold giving the percentage of data of the middle Gaussian to take into account <FLOAT>
+--segmentalMode          file to have a file by file behaviour <STRING>
+--thresholdMode          this parameter must be set to select 3 top gaussian. It's a default parameter <STRING>
+
+NormFeatFile Mode- Normalisation by file by file
+var and mean normalisation
+[ FileNotFoundException 0x9123100 ]
+  message   = ""
+  source file = FileReader.cpp
+  line number = 101
+  fileName =  data/prm/Test_4.mfc
+(ComputeTest) No Channel Compensation
+Compute Test, Decime mode[1] File Mode- 1 LLR by file
+[ FileNotFoundException 0x8c873e0 ]
+  message   = ""
+  source file = FileReader.cpp
+  line number = 101
+  fileName =  data/prm/Test_4.norm.prm
+000000000000000000000000000000000000+(0.7)11111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111-(4.84)1+(4.84)1111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111-(9.98)
+1+(0.0)111111101111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111-(9.98)
+1+(0.0)111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111-(9.98)
+NormFeatFile Mode- Normalisation by file by file
+var and mean normalisation
+NormFeatFile Mode- Normalisation by file by file
+var and mean normalisation
+(ComputeTest) No Channel Compensation
+Compute Test, Decime mode[1] File Mode- 1 LLR by file
+[ FileNotFoundException 0x9f55380 ]
+  message   = ""
+  source file = FileReader.cpp
+  line number = 101
+  fileName =  data/prm/Andro.norm.prm
+NormFeatFile Mode- Normalisation by file by file
+var and mean normalisation
+[ FileNotFoundException 0x9e4e0b0 ]
+  message   = ""
+  source file = FileReader.cpp
+  line number = 101
+  fileName =  data/prm/renj.mfc
+Proceeding Energy based silence detection for [renj]
+[ FileNotFoundException 0x8f691b0 ]
+  message   = ""
+  source file = FileReader.cpp
+  line number = 101
+  fileName =  data/prm/renj.enr.tmp.prm
+--help                   Show this help
+--version                Show version information
+--config                 default config filename <STRING>
+--inputFeatureFilename   input feature - could be a simple feature file or a list of filename <STRING>
+--labelFilesPath         path of input and output labels <STRING>
+--saveLabelFileExtension output labelFile extension <STRING>
+--labelOutputFrames      output label tag <STRING>
+--alpha                  threshold giving the percentage of data of the middle Gaussian to take into account <FLOAT>
+--segmentalMode          file to have a file by file behaviour <STRING>
+--thresholdMode          this parameter must be set to select 3 top gaussian. It's a default parameter <STRING>
+
+NormFeatFile Mode- Normalisation by file by file
+var and mean normalisation
+[ FileNotFoundException 0x9fbf100 ]
+  message   = ""
+  source file = FileReader.cpp
+  line number = 101
+  fileName =  data/prm/renj.mfc
+(ComputeTest) No Channel Compensation
+Compute Test, Decime mode[1] File Mode- 1 LLR by file
+[ FileNotFoundException 0x95823e0 ]
+  message   = ""
+  source file = FileReader.cpp
+  line number = 101
+  fileName =  data/prm/renj.norm.prm
+NormFeatFile Mode- Normalisation by file by file
+var and mean normalisation
+[ FileNotFoundException 0x87c80b0 ]
+  message   = ""
+  source file = FileReader.cpp
+  line number = 101
+  fileName =  data/prm/Test_4.mfc
+Proceeding Energy based silence detection for [Test_4]
+[ FileNotFoundException 0x87e61b0 ]
+  message   = ""
+  source file = FileReader.cpp
+  line number = 101
+  fileName =  data/prm/Test_4.enr.tmp.prm
+--help                   Show this help
+--version                Show version information
+--config                 default config filename <STRING>
+--inputFeatureFilename   input feature - could be a simple feature file or a list of filename <STRING>
+--labelFilesPath         path of input and output labels <STRING>
+--saveLabelFileExtension output labelFile extension <STRING>
+--labelOutputFrames      output label tag <STRING>
+--alpha                  threshold giving the percentage of data of the middle Gaussian to take into account <FLOAT>
+--segmentalMode          file to have a file by file behaviour <STRING>
+--thresholdMode          this parameter must be set to select 3 top gaussian. It's a default parameter <STRING>
+
+NormFeatFile Mode- Normalisation by file by file
+var and mean normalisation
+[ FileNotFoundException 0x9095100 ]
+  message   = ""
+  source file = FileReader.cpp
+  line number = 101
+  fileName =  data/prm/Test_4.mfc
+(ComputeTest) No Channel Compensation
+Compute Test, Decime mode[1] File Mode- 1 LLR by file
+[ FileNotFoundException 0x92aa3e0 ]
+  message   = ""
+  source file = FileReader.cpp
+  line number = 101
+  fileName =  data/prm/Test_4.norm.prm
+NormFeatFile Mode- Normalisation by file by file
+var and mean normalisation
+[ FileNotFoundException 0x98f70b0 ]
+  message   = ""
+  source file = FileReader.cpp
+  line number = 101
+  fileName =  data/prm/Test_4.mfc
+Proceeding Energy based silence detection for [Test_4]
+[ FileNotFoundException 0x888e1b0 ]
+  message   = ""
+  source file = FileReader.cpp
+  line number = 101
+  fileName =  data/prm/Test_4.enr.tmp.prm
+--help                   Show this help
+--version                Show version information
+--config                 default config filename <STRING>
+--inputFeatureFilename   input feature - could be a simple feature file or a list of filename <STRING>
+--labelFilesPath         path of input and output labels <STRING>
+--saveLabelFileExtension output labelFile extension <STRING>
+--labelOutputFrames      output label tag <STRING>
+--alpha                  threshold giving the percentage of data of the middle Gaussian to take into account <FLOAT>
+--segmentalMode          file to have a file by file behaviour <STRING>
+--thresholdMode          this parameter must be set to select 3 top gaussian. It's a default parameter <STRING>
+
+NormFeatFile Mode- Normalisation by file by file
+var and mean normalisation
+[ FileNotFoundException 0x9971100 ]
+  message   = ""
+  source file = FileReader.cpp
+  line number = 101
+  fileName =  data/prm/Test_4.mfc
+(ComputeTest) No Channel Compensation
+Compute Test, Decime mode[1] File Mode- 1 LLR by file
+[ FileNotFoundException 0x974f3e0 ]
+  message   = ""
+  source file = FileReader.cpp
+  line number = 101
+  fileName =  data/prm/Test_4.norm.prm
+1+(0.0)10-(0.06)001+(0.1)1111-(0.2)0+(0.2)111111-(0.34)01+(0.36)111-(0.44)1+(0.44)111111-(0.58)
+NormFeatFile Mode- Normalisation by file by file
+var and mean normalisation
+(SegTools) Default label file for [Test_4], nb features[50]
+NormFeat file normalisation[Test_4]
+(General Tools) Compute CMS on Feature Server
+Writing to: Test_4
+(GeneralTools) Writing [Test_4] begin:0 length:50
+Proceeding Energy based silence detection for [Test_4]
+(SegTools) Default label file for [Test_4], nb features[50]
+ total variance flooring = 0 ceiling = 0
+Partial Train it[-1] (-1 means initial partial it) LLK=-90.527 Nb Frames=50
+ total variance flooring = 0 ceiling = 0
+Partial Train it[0] (-1 means initial partial it) LLK=-69.4184 Nb Frames=50
+ total variance flooring = 0 ceiling = 0
+Partial Train it[1] (-1 means initial partial it) LLK=-69.1573 Nb Frames=50
+ total variance flooring = 0 ceiling = 0
+Partial Train it[2] (-1 means initial partial it) LLK=-69.0014 Nb Frames=50
+ total variance flooring = 0 ceiling = 0
+Partial Train it[3] (-1 means initial partial it) LLK=-68.8864 Nb Frames=50
+ total variance flooring = 0 ceiling = 0
+Partial Train it[4] (-1 means initial partial it) LLK=-68.802 Nb Frames=50
+ total variance flooring = 0 ceiling = 0
+Partial Train it[5] (-1 means initial partial it) LLK=-68.7416 Nb Frames=50
+ total variance flooring = 0 ceiling = 0
+Partial Train it[6] (-1 means initial partial it) LLK=-68.6982 Nb Frames=50
+Highest component[2] Mean[1.18534] Cov[0.538124] Weight[0.218081]
+File [Test_4]	Number of initial frames [50]	Number of selected frames [28]	percentage selected [56]
+NormFeatFile Mode- Normalisation by file by file
+var and mean normalisation
+(SegTools) >> Proceeding label file reading for [Test_4] <<
+Warning File[Test_4], Truncate Segment begin:41 length:10 file size:50 new length:9
+NormFeat file normalisation[Test_4]
+(General Tools) Compute CMS on Feature Server
+Writing to: Test_4
+(GeneralTools) Writing [Test_4] begin:0 length:50
+(ComputeTest) No Channel Compensation
+Compute Test, Decime mode[1] File Mode- 1 LLR by file
+Warning File[Test_4], Truncate Segment begin:41 length:10 file size:50 new length:9
+test seg[Test_4]
+Warning File[Test_4], Truncate Segment begin:41 length:10 file size:50 new length:9
+test seg[Test_4]
+Warning File[Test_4], Truncate Segment begin:41 length:10 file size:50 new length:9
+test seg[Test_4]
+Warning File[Test_4], Truncate Segment begin:41 length:10 file size:50 new length:9
+test seg[Test_4]
+Warning File[Test_4], Truncate Segment begin:41 length:10 file size:50 new length:9
+test seg[Test_4]
+Warning File[Test_4], Truncate Segment begin:41 length:10 file size:50 new length:9
+test seg[Test_4]
+Warning File[Test_4], Truncate Segment begin:41 length:10 file size:50 new length:9
+test seg[Test_4]
+Warning File[Test_4], Truncate Segment begin:41 length:10 file size:50 new length:9
+test seg[Test_4]
+Warning File[Test_4], Truncate Segment begin:41 length:10 file size:50 new length:9
+test seg[Test_4]
+Warning File[Test_4], Truncate Segment begin:41 length:10 file size:50 new length:9
+test seg[Test_4]
+Warning File[Test_4], Truncate Segment begin:41 length:10 file size:50 new length:9
+test seg[Test_4]
+1+(0.0)10-(0.06)001+(0.1)1111-(0.2)0+(0.2)111111-(0.34)01+(0.36)111-(0.44)1+(0.44)111111-(0.58)
+NormFeatFile Mode- Normalisation by file by file
+var and mean normalisation
+(SegTools) Default label file for [Test_4], nb features[50]
+NormFeat file normalisation[Test_4]
+(General Tools) Compute CMS on Feature Server
+Writing to: Test_4
+(GeneralTools) Writing [Test_4] begin:0 length:50
+Proceeding Energy based silence detection for [Test_4]
+(SegTools) Default label file for [Test_4], nb features[50]
+ total variance flooring = 0 ceiling = 0
+Partial Train it[-1] (-1 means initial partial it) LLK=-90.527 Nb Frames=50
+ total variance flooring = 0 ceiling = 0
+Partial Train it[0] (-1 means initial partial it) LLK=-69.4184 Nb Frames=50
+ total variance flooring = 0 ceiling = 0
+Partial Train it[1] (-1 means initial partial it) LLK=-69.1573 Nb Frames=50
+ total variance flooring = 0 ceiling = 0
+Partial Train it[2] (-1 means initial partial it) LLK=-69.0014 Nb Frames=50
+ total variance flooring = 0 ceiling = 0
+Partial Train it[3] (-1 means initial partial it) LLK=-68.8864 Nb Frames=50
+ total variance flooring = 0 ceiling = 0
+Partial Train it[4] (-1 means initial partial it) LLK=-68.802 Nb Frames=50
+ total variance flooring = 0 ceiling = 0
+Partial Train it[5] (-1 means initial partial it) LLK=-68.7416 Nb Frames=50
+ total variance flooring = 0 ceiling = 0
+Partial Train it[6] (-1 means initial partial it) LLK=-68.6982 Nb Frames=50
+Highest component[2] Mean[1.18534] Cov[0.538124] Weight[0.218081]
+File [Test_4]	Number of initial frames [50]	Number of selected frames [28]	percentage selected [56]
+NormFeatFile Mode- Normalisation by file by file
+var and mean normalisation
+(SegTools) >> Proceeding label file reading for [Test_4] <<
+Warning File[Test_4], Truncate Segment begin:41 length:10 file size:50 new length:9
+NormFeat file normalisation[Test_4]
+(General Tools) Compute CMS on Feature Server
+Writing to: Test_4
+(GeneralTools) Writing [Test_4] begin:0 length:50
+(ComputeTest) No Channel Compensation
+Compute Test, Decime mode[1] File Mode- 1 LLR by file
+Warning File[Test_4], Truncate Segment begin:41 length:10 file size:50 new length:9
+test seg[Test_4]
+Warning File[Test_4], Truncate Segment begin:41 length:10 file size:50 new length:9
+test seg[Test_4]
+Warning File[Test_4], Truncate Segment begin:41 length:10 file size:50 new length:9
+test seg[Test_4]
+Warning File[Test_4], Truncate Segment begin:41 length:10 file size:50 new length:9
+test seg[Test_4]
+Warning File[Test_4], Truncate Segment begin:41 length:10 file size:50 new length:9
+test seg[Test_4]
+Warning File[Test_4], Truncate Segment begin:41 length:10 file size:50 new length:9
+test seg[Test_4]
+Warning File[Test_4], Truncate Segment begin:41 length:10 file size:50 new length:9
+test seg[Test_4]
+Warning File[Test_4], Truncate Segment begin:41 length:10 file size:50 new length:9
+test seg[Test_4]
+Warning File[Test_4], Truncate Segment begin:41 length:10 file size:50 new length:9
+test seg[Test_4]
+Warning File[Test_4], Truncate Segment begin:41 length:10 file size:50 new length:9
+test seg[Test_4]
+Warning File[Test_4], Truncate Segment begin:41 length:10 file size:50 new length:9
+test seg[Test_4]
+000000000000000000001+(0.4)1111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111-(4.16)1+(4.16)1111111111111111111111111111111-(4.8)1+(4.8)111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111-(9.98)
+1+(0.0)111111111111111111111111111111111111111111011111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111-(9.98)
+1+(0.0)111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111110-(9.02)1+(9.02)10-(9.08)0+(9.08)111-(9.16)00000001+(9.3)10-(9.36)0000+(9.42)111111111111111111111111111-(9.98)
+1+(0.0)1111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111-(5.98)
+NormFeatFile Mode- Normalisation by file by file
+var and mean normalisation
+(SegTools) Default label file for [Test_4], nb features[596]
+NormFeat file normalisation[Test_4]
+(General Tools) Compute CMS on Feature Server
+Writing to: Test_4
+(GeneralTools) Writing [Test_4] begin:0 length:596
+Proceeding Energy based silence detection for [Test_4]
+(SegTools) Default label file for [Test_4], nb features[596]
+ total variance flooring = 0 ceiling = 0
+Partial Train it[-1] (-1 means initial partial it) LLK=-1078.1 Nb Frames=596
+ total variance flooring = 0 ceiling = 0
+Partial Train it[0] (-1 means initial partial it) LLK=-804.94 Nb Frames=596
+ total variance flooring = 0 ceiling = 0
+Partial Train it[1] (-1 means initial partial it) LLK=-791.363 Nb Frames=596
+ total variance flooring = 0 ceiling = 0
+Partial Train it[2] (-1 means initial partial it) LLK=-785.871 Nb Frames=596
+ total variance flooring = 0 ceiling = 0
+Partial Train it[3] (-1 means initial partial it) LLK=-783.571 Nb Frames=596
+ total variance flooring = 0 ceiling = 0
+Partial Train it[4] (-1 means initial partial it) LLK=-782.551 Nb Frames=596
+ total variance flooring = 0 ceiling = 0
+Partial Train it[5] (-1 means initial partial it) LLK=-782.062 Nb Frames=596
+ total variance flooring = 0 ceiling = 0
+Partial Train it[6] (-1 means initial partial it) LLK=-781.802 Nb Frames=596
+Highest component[2] Mean[0.93135] Cov[0.184084] Weight[0.287911]
+File [Test_4]	Number of initial frames [596]	Number of selected frames [310]	percentage selected [52]
+NormFeatFile Mode- Normalisation by file by file
+var and mean normalisation
+(SegTools) >> Proceeding label file reading for [Test_4] <<
+NormFeat file normalisation[Test_4]
+(General Tools) Compute CMS on Feature Server
+Writing to: Test_4
+(GeneralTools) Writing [Test_4] begin:0 length:596
+(ComputeTest) No Channel Compensation
+Compute Test, Decime mode[1] File Mode- 1 LLR by file
+test seg[Test_4]
+test seg[Test_4]
+test seg[Test_4]
+test seg[Test_4]
+test seg[Test_4]
+test seg[Test_4]
+test seg[Test_4]
+test seg[Test_4]
+test seg[Test_4]
+test seg[Test_4]
+test seg[Test_4]
+test seg[Test_4]
+1+(0.0)10-(0.06)000000000000000001+(0.4)111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111110-(9.18)0001+(9.24)111111111111110-(9.56)1+(9.56)11111111111111111111-(9.98)
+1+(0.0)1111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111110111111111-(2.8)1+(2.8)11111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111-(5.08)01+(5.1)1111111111111111111111-(5.56)01+(5.58)11111111111111111111111111111111111111111111111111-(6.6)001+(6.64)1111111111111111111111111111111111111111111111-(7.58)00+(7.6)11-(7.66)0+(7.66)110-(7.74)01+(7.76)111-(7.84)0000+(7.9)11-(7.96)1+(7.96)111111111111111-(8.28)1+(8.28)1111111111111111111111111111111111111111111110-(9.22)01+(9.24)111111111111111111111111111111111111-(9.98)
+1+(0.0)111111111111111111111111111111111111111111111111111-(1.04)001+(1.08)1111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111-(6.22)0+(6.22)11111111111111111111111111111111111111111111111111111-(7.3)1+(7.3)11111111111111111111111111111111111111111111111111111111111111111111111111111111110-(8.98)01+(9.0)11-(9.06)00+(9.08)110-(9.16)0000000+(9.28)11-(9.34)001+(9.38)11111111111111111111111111111-(9.98)
+000000000000000000000000000+(0.52)11111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111-(5.98)
+NormFeatFile Mode- Normalisation by file by file
+var and mean normalisation
+(SegTools) Default label file for [Test_4], nb features[544]
+NormFeat file normalisation[Test_4]
+(General Tools) Compute CMS on Feature Server
+Writing to: Test_4
+(GeneralTools) Writing [Test_4] begin:0 length:544
+Proceeding Energy based silence detection for [Test_4]
+(SegTools) Default label file for [Test_4], nb features[544]
+ total variance flooring = 0 ceiling = 0
+Partial Train it[-1] (-1 means initial partial it) LLK=-984.3 Nb Frames=544
+ total variance flooring = 0 ceiling = 0
+Partial Train it[0] (-1 means initial partial it) LLK=-739.314 Nb Frames=544
+ total variance flooring = 0 ceiling = 0
+Partial Train it[1] (-1 means initial partial it) LLK=-726.88 Nb Frames=544
+ total variance flooring = 0 ceiling = 0
+Partial Train it[2] (-1 means initial partial it) LLK=-720.811 Nb Frames=544
+ total variance flooring = 0 ceiling = 0
+Partial Train it[3] (-1 means initial partial it) LLK=-718.281 Nb Frames=544
+ total variance flooring = 0 ceiling = 0
+Partial Train it[4] (-1 means initial partial it) LLK=-717.345 Nb Frames=544
+ total variance flooring = 0 ceiling = 0
+Partial Train it[5] (-1 means initial partial it) LLK=-717.001 Nb Frames=544
+ total variance flooring = 0 ceiling = 0
+Partial Train it[6] (-1 means initial partial it) LLK=-716.859 Nb Frames=544
+Highest component[2] Mean[1.20976] Cov[0.140623] Weight[0.269008]
+File [Test_4]	Number of initial frames [544]	Number of selected frames [201]	percentage selected [36]
+NormFeatFile Mode- Normalisation by file by file
+var and mean normalisation
+(SegTools) >> Proceeding label file reading for [Test_4] <<
+NormFeat file normalisation[Test_4]
+(General Tools) Compute CMS on Feature Server
+Writing to: Test_4
+(GeneralTools) Writing [Test_4] begin:0 length:544
+(ComputeTest) No Channel Compensation
+Compute Test, Decime mode[1] File Mode- 1 LLR by file
+test seg[Test_4]
+test seg[Test_4]
+test seg[Test_4]
+test seg[Test_4]
+test seg[Test_4]
+test seg[Test_4]
+test seg[Test_4]
+test seg[Test_4]
+test seg[Test_4]
+test seg[Test_4]
+test seg[Test_4]
+test seg[Test_4]
+0000000000000000001+(0.36)111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111-(9.98)
+1+(0.0)111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111-(9.98)
+01+(0.02)111111111111111-(0.34)0+(0.34)1111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111-(9.98)
+000000000000000000001+(0.4)11111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111-(5.98)
+NormFeatFile Mode- Normalisation by file by file
+var and mean normalisation
+(SegTools) Default label file for [Test_4], nb features[556]
+NormFeat file normalisation[Test_4]
+(General Tools) Compute CMS on Feature Server
+Writing to: Test_4
+(GeneralTools) Writing [Test_4] begin:0 length:556
+Proceeding Energy based silence detection for [Test_4]
+(SegTools) Default label file for [Test_4], nb features[556]
+ total variance flooring = 0 ceiling = 0
+Partial Train it[-1] (-1 means initial partial it) LLK=-1010.77 Nb Frames=556
+ total variance flooring = 0 ceiling = 0
+Partial Train it[0] (-1 means initial partial it) LLK=-784.454 Nb Frames=556
+ total variance flooring = 0 ceiling = 0
+Partial Train it[1] (-1 means initial partial it) LLK=-783.893 Nb Frames=556
+ total variance flooring = 0 ceiling = 0
+Partial Train it[2] (-1 means initial partial it) LLK=-783.598 Nb Frames=556
+ total variance flooring = 0 ceiling = 0
+Partial Train it[3] (-1 means initial partial it) LLK=-783.372 Nb Frames=556
+ total variance flooring = 0 ceiling = 0
+Partial Train it[4] (-1 means initial partial it) LLK=-783.188 Nb Frames=556
+ total variance flooring = 0 ceiling = 0
+Partial Train it[5] (-1 means initial partial it) LLK=-783.032 Nb Frames=556
+ total variance flooring = 0 ceiling = 0
+Partial Train it[6] (-1 means initial partial it) LLK=-782.897 Nb Frames=556
+Highest component[2] Mean[1.02013] Cov[0.823326] Weight[0.203832]
+File [Test_4]	Number of initial frames [556]	Number of selected frames [430]	percentage selected [77]
+NormFeatFile Mode- Normalisation by file by file
+var and mean normalisation
+(SegTools) >> Proceeding label file reading for [Test_4] <<
+Warning File[Test_4], Truncate Segment begin:551 length:6 file size:556 new length:5
+NormFeat file normalisation[Test_4]
+(General Tools) Compute CMS on Feature Server
+Writing to: Test_4
+(GeneralTools) Writing [Test_4] begin:0 length:556
+(ComputeTest) No Channel Compensation
+Compute Test, Decime mode[1] File Mode- 1 LLR by file
+Warning File[Test_4], Truncate Segment begin:551 length:6 file size:556 new length:5
+test seg[Test_4]
+Warning File[Test_4], Truncate Segment begin:551 length:6 file size:556 new length:5
+test seg[Test_4]
+Warning File[Test_4], Truncate Segment begin:551 length:6 file size:556 new length:5
+test seg[Test_4]
+Warning File[Test_4], Truncate Segment begin:551 length:6 file size:556 new length:5
+test seg[Test_4]
+Warning File[Test_4], Truncate Segment begin:551 length:6 file size:556 new length:5
+test seg[Test_4]
+Warning File[Test_4], Truncate Segment begin:551 length:6 file size:556 new length:5
+test seg[Test_4]
+Warning File[Test_4], Truncate Segment begin:551 length:6 file size:556 new length:5
+test seg[Test_4]
+Warning File[Test_4], Truncate Segment begin:551 length:6 file size:556 new length:5
+test seg[Test_4]
+Warning File[Test_4], Truncate Segment begin:551 length:6 file size:556 new length:5
+test seg[Test_4]
+Warning File[Test_4], Truncate Segment begin:551 length:6 file size:556 new length:5
+test seg[Test_4]
+Warning File[Test_4], Truncate Segment begin:551 length:6 file size:556 new length:5
+test seg[Test_4]
+Warning File[Test_4], Truncate Segment begin:551 length:6 file size:556 new length:5
+test seg[Test_4]
+Warning File[Test_4], Truncate Segment begin:551 length:6 file size:556 new length:5
+test seg[Test_4]

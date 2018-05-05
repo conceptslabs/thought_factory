@@ -1,0 +1,13 @@
+M Andro 1 Test_4 0.0758761
+M Arunaxis 1 Test_4 0.0150607
+M binil 1 Test_4 2.2119
+M Markandey 0 Test_4 -0.605821
+M Psub 0 Test_4 -0.999259
+M renj 1 Test_4 0.26502
+M renjith 0 Test_4 -0.218062
+M Shalini 1 Test_4 0.00821001
+M shyam 1 Test_4 0.14582
+M Teeli 0 Test_4 -0.405519
+M Ti 0 Test_4 -0.4675
+M V 0 Test_4 -0.057987
+M Vaisak 0 Test_4 -0.380741
