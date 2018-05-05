@@ -2,5 +2,5 @@
 
 Submitted for THOUGHT FACTORY - AXIS BANK Accelerator
 
-#### conceptslabs@gmail.com
+#### info@concepts.ai
 #### http://concepts.ai/
